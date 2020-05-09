@@ -1,0 +1,15 @@
+- times for each class
+[0-9][0-9]:[0-9][0-9] [AP]M
+
+- class course code (start of each course entry)
+[A-Z][A-Z][A-Z][A-Z]-[0-9][0-9][0-9][0-9]([A-Z]?)
+
+- professor name(s) (end of each course entry)
+[A-Z][a-zA-Z]*,[A-Z][a-zA-Z]*( ?)([A-Z]?)(\.?)
+
+- section numbers
+Section [0-9]+
+
+- dates (ignore last character and whitespace)
+[^AP][MWT]H? [0-9]
+

@@ -1,0 +1,23 @@
+{
+    "AERO-1970B": {
+        "name": "Prac: Prof Devt Pilot Training",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": 1,
+                "full?": true,
+                "credits": 3.00,
+                "days": "M",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "04:50 PM"
+                },
+                "room": "Dillon Hall 361",
+                "profs": [
+                    "Gayowsky, Alex C",
+                    "Reaume, Marissa"
+                ]
+            }
+        ]
+    }
+}
