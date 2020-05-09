@@ -34,7 +34,7 @@ courses_dict = {}
 i = 0    
 # organizes pdf using regex into json
 for s in raw:
-    code = re.findall("[A-Z][A-Z][A-Z][A-Z]-[0-9][0-9][0-9][0-9]|$", s)[0]
+    code = re.findall("[A-Z][A-Z][A-Z][A-Z]- *[0-9][0-9X][0-9X][0-9X]|$", s)[0]
     if code: # should almost always work
         j = i + 1
         while not re.findall("[A-Z][A-Z][A-Z][A-Z]-[0-9][0-9][0-9][0-9]|$", raw[j])[0]:

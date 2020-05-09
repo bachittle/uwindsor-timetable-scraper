@@ -195,6 +195,18 @@
             "Huffaker,Shauna "
         ]
     },
+    "ARTX-   4XXX": {
+        "name": " International Exchange ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "29",
+                "full?": true,
+                "credits": "2.00",
+                "time": {}
+            }
+        ]
+    },
     "DIGJ-3400": {
         "name": " Newsroom - Collab Studio III ",
         "type": "LEC",
@@ -11371,6 +11383,18 @@
             "Alpas,Ahmet T"
         ]
     },
+    "HKEX-   4XXX": {
+        "name": " International Exchange ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "29",
+                "full?": true,
+                "credits": "5.00",
+                "time": {}
+            }
+        ]
+    },
     "KINE-1000": {
         "name": " Health and Wellness ",
         "type": "LEC",
@@ -14085,6 +14109,18 @@
         ],
         "profs": [
             "Rickeard,Debbie L"
+        ]
+    },
+    "NURX-   4XXX": {
+        "name": " International Exchange ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "29",
+                "full?": false,
+                "credits": "5.00",
+                "time": {}
+            }
         ]
     },
     "BIOL-1013": {
@@ -17999,6 +18035,18 @@
             "Bondy,Michelle E"
         ]
     },
+    "SCIX-   4XXX": {
+        "name": " International Exchange ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "29",
+                "full?": false,
+                "credits": "5.00",
+                "time": {}
+            }
+        ]
+    },
     "MATH-1020": {
         "name": " Laboratory ",
         "type": "LAB",
@@ -20241,6 +20289,24 @@
                 "credits": "3.00",
                 "time": {}
             },
+            {
+                "number": "28",
+                "full?": true,
+                "credits": "2.00",
+                "time": {}
+            },
+            {
+                "number": "29",
+                "full?": false,
+                "credits": "5.00",
+                "time": {}
+            }
+        ]
+    },
+    "BUSX-   4XXX": {
+        "name": " International Exchange ",
+        "type": "LEC",
+        "sections": [
             {
                 "number": "28",
                 "full?": true,
