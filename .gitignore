@@ -1,7 +1,5 @@
 log.txt
-*.pdf
-w2020.txt
+data/pdfs
 
-classes.json
 classes.py
 classes.txt

@@ -1,6 +1,8 @@
+# note: i would recommend redirecting stdout to a log file
 from tika import parser
 import re
 import json
+import sys
 
 
 # didnt implement this part
@@ -8,15 +10,21 @@ import json
 #      (COMP -> computer science, MATH -> Mathematics, STAT -> Statistics, etc.)
 
 
-#fp = open("classes.json", "r")
+#fp = open("helper/classes.json", "r")
 #classes = json.load(fp)
 #fp.close()
 #print(classes)
 #codes = classes.keys()
 #print(codes)
 
+# change this to the file you want to read in data/pdfs
+FILENAME = "f2019"
+if len(sys.argv) > 1:
+    FILENAME = sys.argv[1]
+
+print(FILENAME)
 # parses uses tika apache pdf bindings
-raw = parser.from_file("w2020.pdf")
+raw = parser.from_file("data/pdfs/"+FILENAME+".pdf")
 
 raw = raw["content"]
 raw = raw[raw.index("Bldg/Room Professor")+len("Bldg/Room Professor"):]
@@ -24,7 +32,7 @@ raw = raw.split("\n")
 i = 0
 for s in raw:
     # removes unnecessary pdf junk
-    if s == "Winter 2020 Course Offerings Friday, January 17, 202005:35:31 AM":
+    if s.find("Course Offerings") != -1:
         for j in range(11):
             #print(raw[i])
             raw.pop(i)
@@ -131,10 +139,10 @@ for s in raw:
             courses_dict[code] = course_dict
     i += 1
 
-fp = open("w2020.txt", "w")
+fp = open("data/pdfs/"+FILENAME+".txt", "w")
 fp.write("\n".join(raw))
 fp.close()
 
-fp = open("timetable.json", "w")
+fp = open("data/"+FILENAME+".json", "w")
 json.dump(courses_dict, fp, indent=4)
 fp.close()
