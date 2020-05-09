@@ -121,7 +121,14 @@ for s in raw:
             j += 1
             course_dict["sections"].append(section_dict)
         print(course_dict)
-        courses_dict[code] = course_dict
+        if code in courses_dict:
+            print("test")
+            j = 1
+            while code + "-" + str(j) in courses_dict:
+                j += 1
+            courses_dict[code + "-" + str(j)] = course_dict
+        else:
+            courses_dict[code] = course_dict
     i += 1
 
 fp = open("w2020.txt", "w")

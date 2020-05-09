@@ -537,6 +537,37 @@
         ]
     },
     "SOSC-2500": {
+        "name": " Basic Quantitative Methods  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "06:50 PM"
+                },
+                "room": " Toldo Health  Education Ctr  200  "
+            },
+            {
+                "number": "2",
+                "full?": true,
+                "credits": "3.00",
+                "days": "W",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "05:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  200  "
+            }
+        ],
+        "profs": [
+            "Phipps,Alan G"
+        ]
+    },
+    "SOSC-2500-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -696,6 +727,26 @@
         ]
     },
     "CMAF-1010": {
+        "name": " Intro: Media and Society ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "05:50 PM"
+                },
+                "room": " Erie Hall 3123 "
+            }
+        ],
+        "profs": [
+            "Jankowski,Steve "
+        ]
+    },
+    "CMAF-1010-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -745,6 +796,26 @@
         ]
     },
     "CMAF-1130": {
+        "name": " Intro: Media Design & Prod II ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "30",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "08:50 PM"
+                },
+                "room": " Chrysler Hall South 51 "
+            }
+        ],
+        "profs": [
+            "Lau,Tony "
+        ]
+    },
+    "CMAF-1130-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -809,6 +880,26 @@
         ]
     },
     "CMAF-2130": {
+        "name": " Podcasting and Internet Media ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "01:20 PM"
+                },
+                "room": " Erie Hall G141 "
+            }
+        ],
+        "profs": [
+            "Rennie,Garth R"
+        ]
+    },
+    "CMAF-2130-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -828,6 +919,26 @@
         ]
     },
     "CMAF-2150": {
+        "name": " Experimental Film and Video ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "08:50 PM"
+                },
+                "room": " Freedom Way 107 "
+            }
+        ],
+        "profs": [
+            "Bae,Min "
+        ]
+    },
+    "CMAF-2150-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -887,6 +998,37 @@
         ]
     },
     "CMAF-2310": {
+        "name": " Film Production ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "01:20 PM"
+                },
+                "room": " Erie Hall STU A "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "02:00 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Erie Hall STU A "
+            }
+        ],
+        "profs": [
+            "Stasko,Michael J"
+        ]
+    },
+    "CMAF-2310-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -1020,6 +1162,26 @@
         ]
     },
     "CMAF-2750": {
+        "name": " Theories-Communication & Media ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "05:50 PM"
+                },
+                "room": " Erie Hall 1118 "
+            }
+        ],
+        "profs": [
+            "Manzerolle,Vincent "
+        ]
+    },
+    "CMAF-2750-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -1059,6 +1221,26 @@
         ]
     },
     "CMAF-3090": {
+        "name": " Field & Studio Sound Recording ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "01:20 PM"
+                },
+                "room": "  Erie Hall STU- B  "
+            }
+        ],
+        "profs": [
+            "Hector,Nick "
+        ]
+    },
+    "CMAF-3090-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -1260,6 +1442,26 @@
         ]
     },
     "CMAF-4230": {
+        "name": " Advg / Mktg Campaign Prod ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "05:50 PM"
+                },
+                "room": " Erie Hall 2130 "
+            }
+        ],
+        "profs": [
+            "Lau,Tony "
+        ]
+    },
+    "CMAF-4230-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -1409,6 +1611,26 @@
         ]
     },
     "CNMA-1130": {
+        "name": " Intro: Media Design & Prod II ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "30",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "08:50 PM"
+                },
+                "room": "  Chrysler Hall  South 51 "
+            }
+        ],
+        "profs": [
+            "Lau,Tony "
+        ]
+    },
+    "CNMA-1130-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -1458,6 +1680,26 @@
         ]
     },
     "CNMA-2150": {
+        "name": " Experimental Film and Video ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "08:50 PM"
+                },
+                "room": " Freedom Way 107 "
+            }
+        ],
+        "profs": [
+            "Bae,Min "
+        ]
+    },
+    "CNMA-2150-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -1497,6 +1739,37 @@
         ]
     },
     "CNMA-2310": {
+        "name": " Film Production ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "01:20 PM"
+                },
+                "room": " Erie Hall STU A "
+            },
+            {
+                "number": "2",
+                "full?": true,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "02:00 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Erie Hall STU  A "
+            }
+        ],
+        "profs": [
+            "Stasko,Michael J"
+        ]
+    },
+    "CNMA-2310-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -1550,6 +1823,26 @@
         ]
     },
     "CNMA-3090": {
+        "name": " Field & Studio Sound Recording ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "01:20 PM"
+                },
+                "room": " Erie Hall STU-  B "
+            }
+        ],
+        "profs": [
+            "Hector,Nick "
+        ]
+    },
+    "CNMA-3090-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -3197,6 +3490,129 @@
         ]
     },
     "MUSP-3710": {
+        "name": " Voice ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "12:00 PM",
+                    "end": "02:00 PM"
+                },
+                "room": " "
+            }
+        ],
+        "profs": [
+            "Nurullah,ShahidaSwanson"
+        ]
+    },
+    "MUSP-3710-1": {
+        "name": " Piano ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "12:00 PM",
+                    "end": "02:00 PM"
+                },
+                "room": " "
+            }
+        ],
+        "profs": [
+            "Karloff,Michael J",
+            "Swanson,Jennifer "
+        ]
+    },
+    "MUSP-3710-2": {
+        "name": " Woodwind ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "3",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "12:00 PM",
+                    "end": "02:00 PM"
+                },
+                "room": " "
+            }
+        ],
+        "profs": [
+            "Price,Jeffrey M",
+            "Swanson,Jennifer "
+        ]
+    },
+    "MUSP-3710-3": {
+        "name": " Brass ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "4",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "12:00 PM",
+                    "end": "02:00 PM"
+                },
+                "room": "  "
+            }
+        ],
+        "profs": [
+            "Fazecash,Robert S"
+        ]
+    },
+    "MUSP-3710-4": {
+        "name": " Guitar ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "5",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "12:00 PM",
+                    "end": "02:00 PM"
+                },
+                "room": "  "
+            }
+        ],
+        "profs": [
+            "Finlayson,Miles S"
+        ]
+    },
+    "MUSP-3710-5": {
+        "name": " Bass ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "6",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "12:00 PM",
+                    "end": "02:00 PM"
+                },
+                "room": "  "
+            }
+        ],
+        "profs": [
+            "Palazzolo,Michael A",
+            "Swanson,Jennifer "
+        ]
+    },
+    "MUSP-3710-6": {
         "name": " Percussion ",
         "type": "LEC",
         "sections": [
@@ -3267,6 +3683,26 @@
         ]
     },
     "VABE-1200": {
+        "name": " Architectural Design II ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "6.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "11:20 AM"
+                },
+                "room": "  Painting Studio - AM207 "
+            }
+        ],
+        "profs": [
+            "Baggio,Lisa C"
+        ]
+    },
+    "VABE-1200-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -3952,6 +4388,26 @@
         ]
     },
     "DRAM-2000": {
+        "name": " The Nature of Theatre II ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Essex Hall 186 Van "
+            }
+        ],
+        "profs": [
+            "Eek,Esther "
+        ]
+    },
+    "DRAM-2000-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -5092,6 +5548,26 @@
         ]
     },
     "HIST-1140": {
+        "name": " Eur: Age of Discvry 15-18 Cent ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:20 PM"
+                },
+                "room": " Chrysler Hall   South 53 "
+            }
+        ],
+        "profs": [
+            "Lazure,Guy "
+        ]
+    },
+    "HIST-1140-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -5161,6 +5637,26 @@
         ]
     },
     "HIST-1240": {
+        "name": " World - 20 Century: 1945-Pres ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "12:30 PM",
+                    "end": "01:20 PM"
+                },
+                "room": "  Chrysler Hall  North G133 "
+            }
+        ],
+        "profs": [
+            "Pole,Adam "
+        ]
+    },
+    "HIST-1240-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -5913,6 +6409,21 @@
         ]
     },
     "FREN-4970": {
+        "name": " The French Enlightenment ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "time": {}
+            }
+        ],
+        "profs": [
+            "Worth,Jeremy D."
+        ]
+    },
+    "FREN-4970-1": {
         "name": " Grotesque Body/Modern French N ",
         "type": "LEC",
         "sections": [
@@ -6507,6 +7018,32 @@
         ]
     },
     "PHIL-1600": {
+        "name": " Reasoning Skills ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Education Building 1101 "
+            },
+            {
+                "number": "91",
+                "full?": true,
+                "credits": "3.00",
+                "time": {}
+            }
+        ],
+        "profs": [
+            "Parr,Kate E"
+        ]
+    },
+    "PHIL-1600-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -7119,6 +7656,26 @@
         ]
     },
     "POLS-2750": {
+        "name": " Research Mthds: Political Scie ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Chrysler Hall North G125 "
+            }
+        ],
+        "profs": [
+            "Wittebols,Jim "
+        ]
+    },
+    "POLS-2750-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -7570,6 +8127,37 @@
         ]
     },
     "PSYC-2300": {
+        "name": " Social Scie Research Methods ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:30 PM",
+                    "end": "02:20 PM"
+                },
+                "room": "  Chrysler Hall  North G133  "
+            },
+            {
+                "number": "30",
+                "full?": false,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "09:50 PM"
+                },
+                "room": " Toldo Health  Education Ctr  202  "
+            }
+        ],
+        "profs": [
+            "Romero,Kristoffer "
+        ]
+    },
+    "PSYC-2300-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -7891,6 +8479,26 @@
         ]
     },
     "PSYC-3530": {
+        "name": " Learning & Behaviour ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "12:30 PM",
+                    "end": "01:20 PM"
+                },
+                "room": " Dillon Hall 361 "
+            }
+        ],
+        "profs": [
+            "Eren,Suzie S"
+        ]
+    },
+    "PSYC-3530-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -7940,6 +8548,26 @@
         ]
     },
     "PSYC-3580": {
+        "name": " Cognitive Processes ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "06:50 PM"
+                },
+                "room": "  Chrysler Hall  North G125 "
+            }
+        ],
+        "profs": [
+            "Ricciardi,Philip W"
+        ]
+    },
+    "PSYC-3580-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -7979,6 +8607,72 @@
         ]
     },
     "PSYC-4000": {
+        "name": " Wellness & Coping  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Memorial Hall 105  "
+            }
+        ],
+        "profs": [
+            "Miller,Carlin S",
+            "Jackson,Jill T"
+        ]
+    },
+    "PSYC-4000-1": {
+        "name": " World Tolerance ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "time": {}
+            }
+        ],
+        "profs": [
+            "Cramer,Kenneth M"
+        ]
+    },
+    "PSYC-4000-2": {
+        "name": " Positive Psych & Happiness ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "3",
+                "full?": false,
+                "credits": "3.00",
+                "time": {}
+            }
+        ],
+        "profs": [
+            "Towson,Shelagh M"
+        ]
+    },
+    "PSYC-4000-3": {
+        "name": " Review Academic Accommodation ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "4",
+                "full?": false,
+                "credits": "3.00",
+                "time": {}
+            }
+        ],
+        "profs": [
+            "Towson,Shelagh M"
+        ]
+    },
+    "PSYC-4000-4": {
         "name": " Conflict & Workplace Stressors ",
         "type": "LEC",
         "sections": [
@@ -8854,6 +9548,37 @@
         ]
     },
     "SACR-3080": {
+        "name": " Intermediate Statistics ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "30",
+                "full?": false,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "08:50 PM"
+                },
+                "room": " Chrysler Hall North G125 "
+            },
+            {
+                "number": "31",
+                "full?": false,
+                "credits": "3.00",
+                "days": "W",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "08:50 PM"
+                },
+                "room": " Leddy Library  G101A "
+            }
+        ],
+        "profs": [
+            "Phipps,Alan G"
+        ]
+    },
+    "SACR-3080-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -9760,6 +10485,27 @@
         ]
     },
     "CIVL-2190": {
+        "name": " Materials in Civil&Environ Eng  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  2100  "
+            }
+        ],
+        "profs": [
+            "Cheng,Shaohong ",
+            "Cheng,Shaohong "
+        ]
+    },
+    "CIVL-2190-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -9790,6 +10536,26 @@
         ]
     },
     "CIVL-2200": {
+        "name": " Civil Engg Information Systems ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Erie Hall 1118 "
+            }
+        ],
+        "profs": [
+            "Ruparathna,Rajeev "
+        ]
+    },
+    "CIVL-2200-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -9841,6 +10607,26 @@
         ]
     },
     "CIVL-4710": {
+        "name": " Hydrology  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  2100  "
+            }
+        ],
+        "profs": [
+            "Bolisetti,Tirupati "
+        ]
+    },
+    "CIVL-4710-1": {
         "name": " Laboratory",
         "type": "LAB",
         "sections": [
@@ -9880,6 +10666,26 @@
         ]
     },
     "CIVL-4720": {
+        "name": " Hydraulics    ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1101  "
+            }
+        ],
+        "profs": [
+            "Carriveau,Rupp E"
+        ]
+    },
+    "CIVL-4720-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -9899,6 +10705,26 @@
         ]
     },
     "ENVE-3610": {
+        "name": " Transport Phenomena  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "06:50 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  2102  "
+            }
+        ],
+        "profs": [
+            "Asfour,Abdul"
+        ]
+    },
+    "ENVE-3610-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -9918,6 +10744,26 @@
         ]
     },
     "ENVE-3620": {
+        "name": " Air Pollution Control  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  2104  "
+            }
+        ],
+        "profs": [
+            "Xu,Iris "
+        ]
+    },
+    "ENVE-3620-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -9937,6 +10783,26 @@
         ]
     },
     "ENVE-3630": {
+        "name": " Water and Wastewater Treatment  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  1101  "
+            }
+        ],
+        "profs": [
+            "Biswas,Niharendu "
+        ]
+    },
+    "ENVE-3630-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -9998,6 +10864,26 @@
         ]
     },
     "ENVE-4710": {
+        "name": " Water Dist/Wastewater Collectn  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  1101  "
+            }
+        ],
+        "profs": [
+            "Seth,Rajesh "
+        ]
+    },
+    "ENVE-4710-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10017,6 +10903,26 @@
         ]
     },
     "ENVE-4720": {
+        "name": " Chemical Reaction Engineering    ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "04:30 PM",
+                    "end": "07:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  2104  "
+            }
+        ],
+        "profs": [
+            "Asfour,Abdul"
+        ]
+    },
+    "ENVE-4720-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10057,6 +10963,26 @@
         ]
     },
     "ELEC-2170": {
+        "name": " Digital Logic Design I ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Erie Hall 3123 "
+            }
+        ],
+        "profs": [
+            "Muscedere,Roberto "
+        ]
+    },
+    "ELEC-2170-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10087,6 +11013,26 @@
         ]
     },
     "ELEC-2200": {
+        "name": " Circuit Analysis ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "04:30 PM",
+                    "end": "05:50 PM"
+                },
+                "room": " Erie Hall 3123 Abdel-"
+            }
+        ],
+        "profs": [
+            "Raheem,Esam "
+        ]
+    },
+    "ELEC-2200-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10118,6 +11064,26 @@
         ]
     },
     "ELEC-2240": {
+        "name": " Signals and Systems ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Erie Hall 3123 "
+            }
+        ],
+        "profs": [
+            "Balasingam,Bala "
+        ]
+    },
+    "ELEC-2240-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10148,6 +11114,27 @@
         ]
     },
     "ELEC-2260": {
+        "name": " Electronics I  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1101  "
+            }
+        ],
+        "profs": [
+            "Mirhassani,Mitra ",
+            "Mirhassani,Mitra "
+        ]
+    },
+    "ELEC-2260-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10177,6 +11164,26 @@
         ]
     },
     "ELEC-2280": {
+        "name": " Electromagnetic Fields ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Erie Hall 3123 "
+            }
+        ],
+        "profs": [
+            "Rashidzadeh,Rashid "
+        ]
+    },
+    "ELEC-2280-1": {
         "name": " Laboratory",
         "type": "LAB",
         "sections": [
@@ -10226,6 +11233,26 @@
         ]
     },
     "ELEC-4000": {
+        "name": " Capstone Design Project ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Erie Hall 1118 "
+            }
+        ],
+        "profs": [
+            "Muscedere,Roberto "
+        ]
+    },
+    "ELEC-4000-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10245,6 +11272,26 @@
         ]
     },
     "ELEC-4100": {
+        "name": " Directed Study I ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "60",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "09:50 PM"
+                },
+                "room": " "
+            }
+        ],
+        "profs": [
+            "Bziuk,Peter T"
+        ]
+    },
+    "ELEC-4100-1": {
         "name": " Industrial Control Systems  ",
         "type": "LEC",
         "sections": [
@@ -10265,6 +11312,26 @@
         ]
     },
     "ELEC-4190": {
+        "name": " Digital Communications  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  2101  "
+            }
+        ],
+        "profs": [
+            "Shahrrava,Behnam "
+        ]
+    },
+    "ELEC-4190-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10285,6 +11352,26 @@
         ]
     },
     "ELEC-4310": {
+        "name": " Control Systems II    ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1100  "
+            }
+        ],
+        "profs": [
+            "Chen,Xiang "
+        ]
+    },
+    "ELEC-4310-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10304,6 +11391,26 @@
         ]
     },
     "ELEC-4340": {
+        "name": " Automotive Electronics ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "05:20 PM"
+                },
+                "room": " Erie Hall 2126 "
+            }
+        ],
+        "profs": [
+            "Chowdhury,Sazzadur R"
+        ]
+    },
+    "ELEC-4340-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10335,6 +11442,26 @@
         ]
     },
     "ELEC-4360": {
+        "name": " Computer Communications  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  2101  "
+            }
+        ],
+        "profs": [
+            "Wu,Huapeng "
+        ]
+    },
+    "ELEC-4360-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10355,6 +11482,26 @@
         ]
     },
     "ELEC-4370": {
+        "name": " Intelligent Computing  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Toldo Health  Education Ctr  104  "
+            }
+        ],
+        "profs": [
+            "Kwan,Hon K"
+        ]
+    },
+    "ELEC-4370-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10374,6 +11521,26 @@
         ]
     },
     "ELEC-4430": {
+        "name": " Embedded System Design ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Erie Hall 2126 "
+            }
+        ],
+        "profs": [
+            "Khalid,Mohammed "
+        ]
+    },
+    "ELEC-4430-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10393,6 +11560,27 @@
         ]
     },
     "ELEC-4440": {
+        "name": " Analog Integrated Circuit Desn  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "W",
+                "time": {
+                    "start": "04:30 PM",
+                    "end": "05:50 PM"
+                },
+                "room": " Faculty of  Engineering- CE2103  "
+            }
+        ],
+        "profs": [
+            "Chen,Chunhong ",
+            "Chen,Chunhong "
+        ]
+    },
+    "ELEC-4440-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10412,6 +11600,26 @@
         ]
     },
     "ELEC-4450": {
+        "name": " Power Electronics ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": "  Odette Building 112 "
+            }
+        ],
+        "profs": [
+            "Kar,Narayan "
+        ]
+    },
+    "ELEC-4450-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10432,6 +11640,26 @@
         ]
     },
     "ELEC-4500": {
+        "name": " Power Systems I ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Essex Hall 186 "
+            }
+        ],
+        "profs": [
+            "Azzouz,Maher "
+        ]
+    },
+    "ELEC-4500-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10481,6 +11709,26 @@
         ]
     },
     "ELEC-4570": {
+        "name": " Fund-Digital Signal Processg  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1102  Abdel-"
+            }
+        ],
+        "profs": [
+            "Raheem,Esam "
+        ]
+    },
+    "ELEC-4570-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10500,6 +11748,26 @@
         ]
     },
     "GENG-1110": {
+        "name": " Engineering Mechanics I  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1101  "
+            }
+        ],
+        "profs": [
+            "Biswas,Niharendu "
+        ]
+    },
+    "GENG-1110-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10571,6 +11839,28 @@
         ]
     },
     "GENG-1200": {
+        "name": " Engineering Thermofluids  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "04:30 PM",
+                    "end": "05:20 PM"
+                },
+                "room": " Erie Hall 1120 "
+            }
+        ],
+        "profs": [
+            "Bowers,Randy J.",
+            "Jianu,Ofelia A",
+            "Nie,Xueyuan "
+        ]
+    },
+    "GENG-1200-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10602,6 +11892,26 @@
         ]
     },
     "GENG-1330": {
+        "name": " Engineering and Design ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Chrysler Hall North G125 "
+            }
+        ],
+        "profs": [
+            "Pusca,Daniela "
+        ]
+    },
+    "GENG-1330-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10622,6 +11932,37 @@
         ]
     },
     "GENG-2180": {
+        "name": " Mechanics of Deformable Bodies  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  102  "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Toldo Health  Education Ctr  102  "
+            }
+        ],
+        "profs": [
+            "Lee,Chris "
+        ]
+    },
+    "GENG-2180-1": {
         "name": " Laboratory  M 08:30 AM 11:20 AM Ctr For Engin.  Innovation  2100  Cherniaev,Aleksandr  M 08:30 AM 11:20 AM UG Deformable Bodies Lb- CE1131  Cherniaev,Aleksandr  T 08:30 AM 11:20 AM Ctr For Engin.  Innovation  2100  Lee,Chris  T 08:30 AM 11:20 AM UG Deformable Bodies Lb- CE1131  Lee,Chris  ",
         "type": "LAB",
         "sections": [
@@ -10654,6 +11995,37 @@
         ]
     },
     "GENG-2190": {
+        "name": " Engg Materials Fundamentals ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Erie Hall 2123 "
+            },
+            {
+                "number": "2",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1100  "
+            }
+        ],
+        "profs": [
+            "Edrisy,Afsaneh "
+        ]
+    },
+    "GENG-2190-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10683,6 +12055,37 @@
         ]
     },
     "GENG-2200": {
+        "name": " Numerical Analysis for Engg ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Erie Hall 1120 "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1100  "
+            }
+        ],
+        "profs": [
+            "Johrendt,Jennifer L."
+        ]
+    },
+    "GENG-2200-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10850,6 +12253,26 @@
         ]
     },
     "INDE-3020": {
+        "name": " Health, Safety & Human Factors ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Lab - CE1189 "
+            }
+        ],
+        "profs": [
+            "Kim,Eunsik "
+        ]
+    },
+    "INDE-3020-1": {
         "name": " Laboratory M 04:00 PM 06:00 PM Computer Lab -CE2105C Kim,Eunsik  ",
         "type": "LAB",
         "sections": [
@@ -10870,6 +12293,28 @@
         ]
     },
     "INDE-3110": {
+        "name": " Comp-Aided Des/Comp Aided Mfg ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Undergraduate Electronics Lab Azab "
+            }
+        ],
+        "profs": [
+            "Ismail,Ahmed ",
+            "Ismail,Ahmed ",
+            "Ismail,Ahmed "
+        ]
+    },
+    "INDE-3110-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10889,6 +12334,26 @@
         ]
     },
     "INDE-3270": {
+        "name": " Product Quality & Reliability ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Odette Building110 "
+            }
+        ],
+        "profs": [
+            "Wang,Michael M"
+        ]
+    },
+    "INDE-3270-1": {
         "name": " Laboratory    ",
         "type": "LAB",
         "sections": [
@@ -10908,6 +12373,26 @@
         ]
     },
     "INDE-3910": {
+        "name": " Supply Chain Engineering  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  2101  "
+            }
+        ],
+        "profs": [
+            "Zhang,Guoqing "
+        ]
+    },
+    "INDE-3910-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -10927,6 +12412,26 @@
         ]
     },
     "INDE-4000": {
+        "name": " Capstone Indl Design Projects  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "10:20 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  2100  "
+            }
+        ],
+        "profs": [
+            "Urbanic,Jill "
+        ]
+    },
+    "INDE-4000-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -10990,6 +12495,26 @@
         ]
     },
     "INDE-4350": {
+        "name": " DOE Techniques for Mfg ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Erie Hall 2126 "
+            }
+        ],
+        "profs": [
+            "Oriet,Leo "
+        ]
+    },
+    "INDE-4350-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -11064,6 +12589,26 @@
         ]
     },
     "MECH-3671": {
+        "name": " Aerospace Materials & Mfg  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  2104  "
+            }
+        ],
+        "profs": [
+            "Riahi,Reza R"
+        ]
+    },
+    "MECH-3671-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11083,6 +12628,26 @@
         ]
     },
     "MECH-3831": {
+        "name": " Thermodynamics/Kinetics Matls  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " General  Materials Lab -  CE1193  "
+            }
+        ],
+        "profs": [
+            "Hu,Henry "
+        ]
+    },
+    "MECH-3831-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11102,6 +12667,31 @@
         ]
     },
     "MECH-4200": {
+        "name": " Capstone Design  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "10:20 AM"
+                },
+                "room": " Odette Building 112  "
+            }
+        ],
+        "profs": [
+            "Defoe,Jeff J",
+            "Eaves,Nick S",
+            "Defoe,Jeff J",
+            "Eaves,Nick S",
+            "Defoe,Jeff J",
+            "Eaves,Nick S"
+        ]
+    },
+    "MECH-4200-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11122,6 +12712,37 @@
         ]
     },
     "MECH-4211": {
+        "name": " Design for Failure Prevention  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1101  "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Ctr For Engin.  Innovation  1102  "
+            }
+        ],
+        "profs": [
+            "Riahi,Reza R"
+        ]
+    },
+    "MECH-4211-1": {
         "name": " Laboratory    ",
         "type": "LAB",
         "sections": [
@@ -11151,6 +12772,37 @@
         ]
     },
     "MECH-4218": {
+        "name": " Thermofluid Systems Design  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Toldo Health  Education Ctr  100  "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Toldo Health  Education Ctr  100  "
+            }
+        ],
+        "profs": [
+            "Ting,David S"
+        ]
+    },
+    "MECH-4218-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11202,6 +12854,26 @@
         ]
     },
     "MECH-4250": {
+        "name": " Gas Dynamics  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  2101  "
+            }
+        ],
+        "profs": [
+            "Rankin,Gary W"
+        ]
+    },
+    "MECH-4250-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11221,6 +12893,26 @@
         ]
     },
     "MECH-4251": {
+        "name": " Turbomachines  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  2101  "
+            }
+        ],
+        "profs": [
+            "Rankin,Gary W"
+        ]
+    },
+    "MECH-4251-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11240,6 +12932,26 @@
         ]
     },
     "MECH-4253": {
+        "name": " Htg, Ventiln &Air Conditioning  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  2101  "
+            }
+        ],
+        "profs": [
+            "Ting,David S"
+        ]
+    },
+    "MECH-4253-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11259,6 +12971,27 @@
         ]
     },
     "MECH-4440": {
+        "name": " New Materials/Auto Elective    ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "10",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " General  Materials Lab -  CE1193  "
+            }
+        ],
+        "profs": [
+            "Hu,Henry ",
+            "Hu,Henry "
+        ]
+    },
+    "MECH-4440-1": {
         "name": " Topics in Automotive Engineeri  ",
         "type": "LEC",
         "sections": [
@@ -11280,6 +13013,26 @@
         ]
     },
     "MECH-4463": {
+        "name": " Vehicle Dynamics  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  1102  "
+            }
+        ],
+        "profs": [
+            "Minaker,Bruce P."
+        ]
+    },
+    "MECH-4463-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11299,6 +13052,26 @@
         ]
     },
     "MECH-4465": {
+        "name": " Internal Combustion Engines  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  1102  "
+            }
+        ],
+        "profs": [
+            "Sobiesiak,Andrzej "
+        ]
+    },
+    "MECH-4465-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -11318,6 +13091,26 @@
         ]
     },
     "MECH-4671": {
+        "name": " Aerodynamics and Performance  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Ctr For Engin.  Innovation  2104  "
+            }
+        ],
+        "profs": [
+            "Rahimi,Afshin "
+        ]
+    },
+    "MECH-4671-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -11338,6 +13131,26 @@
         ]
     },
     "MECH-4821": {
+        "name": " Deformation and Fracture ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Chrysler Hall North G125 "
+            }
+        ],
+        "profs": [
+            "Alpas,Ahmet T"
+        ]
+    },
+    "MECH-4821-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -12002,6 +13815,26 @@
         ]
     },
     "KINE-4900": {
+        "name": " Cardiac Rehabilitation ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " HK Building 143 "
+            }
+        ],
+        "profs": [
+            "Mcgowan,Cheri L"
+        ]
+    },
+    "KINE-4900-1": {
         "name": " CAM Appr To Hlth Prom & ll Prv ",
         "type": "LEC",
         "sections": [
@@ -12157,6 +13990,26 @@
         ]
     },
     "NURS-1220": {
+        "name": " Human Anatomy &Physiology II  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  104  "
+            }
+        ],
+        "profs": [
+            "Ralph,Jody "
+        ]
+    },
+    "NURS-1220-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -12683,6 +14536,170 @@
         ]
     },
     "NURS-2742": {
+        "name": " Clinical Nursing Experience    ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "10",
+                "full?": true,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "11",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "12",
+                "full?": true,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "13",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "14",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "15",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "16",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "17",
+                "full?": true,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "18",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "19",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "20",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "21",
+                "full?": true,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "05:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "23",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            },
+            {
+                "number": "25",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "06:00 AM",
+                    "end": "10:00 PM"
+                },
+                "room": " "
+            }
+        ],
+        "profs": [
+            "Dennison,SusanDerbyshire",
+            "Green,Marlene "
+        ]
+    },
+    "NURS-2742-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -13787,6 +15804,61 @@
         ]
     },
     "NURS-3990": {
+        "name": " Indigenous Health  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "05:30 PM",
+                    "end": "08:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  204  "
+            }
+        ],
+        "profs": [
+            "Krohn,Heather K."
+        ]
+    },
+    "NURS-3990-1": {
+        "name": " Culture & Health Across the Li ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "95",
+                "full?": true,
+                "credits": "3.00",
+                "time": {}
+            }
+        ],
+        "profs": [
+            "Paquette,Leanne "
+        ]
+    },
+    "NURS-3990-2": {
+        "name": " Health Issues in Gerontology    ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "96",
+                "full?": false,
+                "credits": "3.00",
+                "days": "W",
+                "time": {
+                    "start": "05:30 PM",
+                    "end": "08:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  102  "
+            }
+        ],
+        "profs": [
+            "Meloche,Fran M."
+        ]
+    },
+    "NURS-3990-3": {
         "name": " Patient Safety: Creating/Safer  ",
         "type": "LEC",
         "sections": [
@@ -14047,6 +16119,26 @@
         ]
     },
     "NURS-4810": {
+        "name": " Transition to Prof Practice ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "6.00",
+                "days": "F",
+                "time": {
+                    "start": "03:00 PM",
+                    "end": "05:50 PM"
+                },
+                "room": " Odette Building104  "
+            }
+        ],
+        "profs": [
+            "Mcewen,Amanda R"
+        ]
+    },
+    "NURS-4810-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -14150,6 +16242,37 @@
         ]
     },
     "BIOL-1111": {
+        "name": " Biological Diversity ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Erie Hall 1120 Cavallo-"
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Erie Hall 1120 Cavallo-"
+            }
+        ],
+        "profs": [
+            "Medved,Dora "
+        ]
+    },
+    "BIOL-1111-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -14249,6 +16372,26 @@
         ]
     },
     "BIOL-2021": {
+        "name": " Human Anatomy ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "05:30 PM",
+                    "end": "06:50 PM"
+                },
+                "room": " Biology   Building 121 Lawrence-"
+            }
+        ],
+        "profs": [
+            "Tayler,Terri "
+        ]
+    },
+    "BIOL-2021-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -14368,6 +16511,26 @@
         ]
     },
     "BIOL-2101": {
+        "name": " Ecology ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Chrysler Hall North G133 "
+            }
+        ],
+        "profs": [
+            "Pitcher,Trevor "
+        ]
+    },
+    "BIOL-2101-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -14417,6 +16580,26 @@
         ]
     },
     "BIOL-2131": {
+        "name": " Introductory Molecular Biology    ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Toldo Health  Education Ctr  100  "
+            }
+        ],
+        "profs": [
+            "Crozier,Martin "
+        ]
+    },
+    "BIOL-2131-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -14567,6 +16750,26 @@
         ]
     },
     "BIOL-3071": {
+        "name": " Medical Micro & Techniques  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "WF",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Toldo Health  Education Ctr  204  "
+            }
+        ],
+        "profs": [
+            "Noel,Tanya C"
+        ]
+    },
+    "BIOL-3071-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -14607,6 +16810,26 @@
         ]
     },
     "BIOL-3142": {
+        "name": " Evolution ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Odette Building104 "
+            }
+        ],
+        "profs": [
+            "Heath,Daniel "
+        ]
+    },
+    "BIOL-3142-1": {
         "name": " Laboratory  ",
         "type": "LAB",
         "sections": [
@@ -14676,6 +16899,26 @@
         ]
     },
     "BIOL-3291": {
+        "name": " Invertebrate Biology ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "10:30 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Dillon Hall 361 "
+            }
+        ],
+        "profs": [
+            "Guerin,Andrew "
+        ]
+    },
+    "BIOL-3291-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -14796,6 +17039,26 @@
         ]
     },
     "BIOL-4008": {
+        "name": " Microbial Ecology ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "12",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Dillon Hall 350 "
+            }
+        ],
+        "profs": [
+            "Noel,Tanya C"
+        ]
+    },
+    "BIOL-4008-1": {
         "name": " Science Communication ",
         "type": "LEC",
         "sections": [
@@ -14836,6 +17099,26 @@
         ]
     },
     "BIOL-4252": {
+        "name": " Evolutionary Endocrinology ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "05:20 PM"
+                },
+                "room": " Biology Building 121 "
+            }
+        ],
+        "profs": [
+            "Love,Oliver P"
+        ]
+    },
+    "BIOL-4252-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -14895,6 +17178,26 @@
         ]
     },
     "BIOL-4481": {
+        "name": " Excitable Cells ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Erie Hall 2127 "
+            }
+        ],
+        "profs": [
+            "Zhang,Huiming "
+        ]
+    },
+    "BIOL-4481-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -15059,6 +17362,37 @@
         ]
     },
     "BIOC-2010": {
+        "name": " Organic Chem of Biomolecules ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "01:30 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Erie Hall 1120 Al-"
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "01:30 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Erie Hall 1120 Al-"
+            }
+        ],
+        "profs": [
+            "Nidawy,NedhalZehra"
+        ]
+    },
+    "BIOC-2010-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -15385,6 +17719,43 @@
         ]
     },
     "CHEM-1103": {
+        "name": " Topics in General Chemistry  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Toldo Health  Education Ctr  100  Al-"
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  200  Al-"
+            },
+            {
+                "number": "3",
+                "full?": false,
+                "credits": "3.00",
+                "time": {}
+            }
+        ],
+        "profs": [
+            "Nidawy,Nedhal T"
+        ]
+    },
+    "CHEM-1103-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -15534,6 +17905,60 @@
         ]
     },
     "CHEM-1110": {
+        "name": " General Chemistry II ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "12:30 PM",
+                    "end": "01:20 PM"
+                },
+                "room": " Odette Building104  Al-"
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "01:30 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  100  Al-"
+            },
+            {
+                "number": "3",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "12:30 PM",
+                    "end": "01:20 PM"
+                },
+                "room": " Odette Building 104  Al-"
+            },
+            {
+                "number": "4",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "01:30 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  100  Al-"
+            }
+        ],
+        "profs": [
+            "Nidawy,Nedhal D",
+            "Lee,Lana "
+        ]
+    },
+    "CHEM-1110-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -15743,6 +18168,32 @@
         ]
     },
     "CHEM-2300": {
+        "name": " Introductory Organic Chemistry ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Biology Building 113  Al-"
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "time": {}
+            }
+        ],
+        "profs": [
+            "Nidawy,NedhalWang"
+        ]
+    },
+    "CHEM-2300-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -15817,6 +18268,26 @@
         ]
     },
     "CHEM-2410": {
+        "name": " Intro Physical Chemistry II ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Chrysler Hall South 53  "
+            }
+        ],
+        "profs": [
+            "Lee,Una W"
+        ]
+    },
+    "CHEM-2410-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -15866,6 +18337,26 @@
         ]
     },
     "CHEM-2510": {
+        "name": " Intro Inorganic Chemistry II    ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "12:30 PM",
+                    "end": "01:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  200  "
+            }
+        ],
+        "profs": [
+            "Lee,Una L"
+        ]
+    },
+    "CHEM-2510-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -15935,6 +18426,27 @@
         ]
     },
     "CHEM-3210": {
+        "name": " Princ./Instrumental Analysis  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Toldo Health  Education Ctr  200  "
+            }
+        ],
+        "profs": [
+            "Lee,Una M",
+            "Samson,Iain M"
+        ]
+    },
+    "CHEM-3210-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16004,6 +18516,26 @@
         ]
     },
     "CHEM-3310": {
+        "name": " Intermediate Organic Chemistry ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "01:30 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Dillon Hall 264 "
+            }
+        ],
+        "profs": [
+            "Lee,UnaTrant"
+        ]
+    },
+    "CHEM-3310-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16142,6 +18674,37 @@
         ]
     },
     "CHEM-4510": {
+        "name": " Spec Tpcs: Inorganic Chemistry ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Memorial Hall   105 "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Dillon Hall 368 "
+            }
+        ],
+        "profs": [
+            "Johnson,Sam A."
+        ]
+    },
+    "CHEM-4510-1": {
         "name": " Organometalcs/Clean Energy ",
         "type": "LEC",
         "sections": [
@@ -16247,6 +18810,26 @@
         ]
     },
     "COMP-1000": {
+        "name": " Key Concepts in Computer Scie ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "30",
+                "full?": false,
+                "credits": "3.00",
+                "days": "T",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "09:50 PM"
+                },
+                "room": " Erie Hall 3123 "
+            }
+        ],
+        "profs": [
+            "Abdullah,Nabil A"
+        ]
+    },
+    "COMP-1000-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16333,6 +18916,26 @@
         ]
     },
     "COMP-1400": {
+        "name": " Intro: Algorithms & Prog I ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "30",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "07:00 PM",
+                    "end": "09:50 PM"
+                },
+                "room": " Erie Hall 3123 "
+            }
+        ],
+        "profs": [
+            "Samet,Saeed "
+        ]
+    },
+    "COMP-1400-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16372,6 +18975,48 @@
         ]
     },
     "COMP-1410": {
+        "name": " Intro: Algorithms & Prog II ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Erie Hall 3123 "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "05:20 PM"
+                },
+                "room": " Erie Hall 2123 "
+            },
+            {
+                "number": "3",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "05:30 PM",
+                    "end": "06:50 PM"
+                },
+                "room": " Erie Hall 2123 Saad "
+            }
+        ],
+        "profs": [
+            "Ahmed,Sherif "
+        ]
+    },
+    "COMP-1410-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16558,6 +19203,26 @@
         ]
     },
     "COMP-2120": {
+        "name": " Obj-Orientd Progrmg Using Java ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "05:20 PM"
+                },
+                "room": " Erie Hall 1118 "
+            }
+        ],
+        "profs": [
+            "Samet,Saeed "
+        ]
+    },
+    "COMP-2120-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16597,6 +19262,26 @@
         ]
     },
     "COMP-2140": {
+        "name": " Language, Grammar &Translators ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Chrysler Hall North G133 "
+            }
+        ],
+        "profs": [
+            "Lu,Jianguo "
+        ]
+    },
+    "COMP-2140-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16676,6 +19361,37 @@
         ]
     },
     "COMP-2540": {
+        "name": " Data Structures & Algorithms ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": true,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Erie Hall 1118 "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Dillon Hall 253 "
+            }
+        ],
+        "profs": [
+            "Rueda,Luis G."
+        ]
+    },
+    "COMP-2540-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16725,6 +19441,26 @@
         ]
     },
     "COMP-2560": {
+        "name": " System Programming ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Erie Hall 2123 "
+            }
+        ],
+        "profs": [
+            "Boufama,Boubakeur "
+        ]
+    },
+    "COMP-2560-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16774,6 +19510,26 @@
         ]
     },
     "COMP-2650": {
+        "name": " Comp Architre I:Digital Design  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Toldo Health  Education Ctr  104  "
+            }
+        ],
+        "profs": [
+            "Wu,Dan "
+        ]
+    },
+    "COMP-2650-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16823,6 +19579,26 @@
         ]
     },
     "COMP-2660": {
+        "name": " Comp Architre II:Micro Program ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "10:30 AM",
+                    "end": "01:20 PM"
+                },
+                "room": " Erie Hall 3123 "
+            }
+        ],
+        "profs": [
+            "Ngom,Alioune "
+        ]
+    },
+    "COMP-2660-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -16907,6 +19683,26 @@
         ]
     },
     "COMP-2800": {
+        "name": " Software Development  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  204  "
+            }
+        ],
+        "profs": [
+            "Chen,Jessica J"
+        ]
+    },
+    "COMP-2800-1": {
         "name": " Laboratory    ",
         "type": "LAB",
         "sections": [
@@ -17316,6 +20112,26 @@
         "type": "LEC",
         "sections": [
             {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Essex Hall 186 "
+            }
+        ],
+        "profs": [
+            "Kobti,Ziad "
+        ]
+    },
+    "COMP-4960-1": {
+        "name": " Research Project ",
+        "type": "LEC",
+        "sections": [
+            {
                 "number": "2",
                 "full?": false,
                 "credits": "3.00",
@@ -17362,6 +20178,26 @@
         ]
     },
     "COMP-4990": {
+        "name": " Project Mgmt: Techniques&Tools ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "12:50 PM"
+                },
+                "room": "  Odette Building 110 "
+            }
+        ],
+        "profs": [
+            "Jaekel,Arunita "
+        ]
+    },
+    "COMP-4990-1": {
         "name": " Project Mgmt: Techniques&Tools ",
         "type": "LEC",
         "sections": [
@@ -18048,6 +20884,26 @@
         ]
     },
     "MATH-1020": {
+        "name": " Mathematical Foundations ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:20 AM"
+                },
+                "room": " Odette Building104 "
+            }
+        ],
+        "profs": [
+            "Hassanzadeh,Mohammad "
+        ]
+    },
+    "MATH-1020-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -18117,6 +20973,26 @@
         ]
     },
     "MATH-1250": {
+        "name": " Linear Algebra I ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Erie Hall 2123 "
+            }
+        ],
+        "profs": [
+            "Alfakih,Abdo "
+        ]
+    },
+    "MATH-1250-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -18210,6 +21086,26 @@
         ]
     },
     "MATH-1720": {
+        "name": " Differential Calculus  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Toldo Health  Education Ctr  200  "
+            }
+        ],
+        "profs": [
+            "Wang,Jing "
+        ]
+    },
+    "MATH-1720-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -18333,6 +21229,27 @@
         ]
     },
     "MATH-1760": {
+        "name": " Functions &Differentl Calculus ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "F",
+                "time": {
+                    "start": "01:30 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Erie Hall 1118 "
+            }
+        ],
+        "profs": [
+            "Mansoora,Abida ",
+            "Mansoora,Abida "
+        ]
+    },
+    "MATH-1760-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -18546,6 +21463,26 @@
         ]
     },
     "MATH-4000": {
+        "name": " Intro to Ring Theory ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "17",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": "  Lambton Tower 9118 "
+            }
+        ],
+        "profs": [
+            "Shapiro,Ilya "
+        ]
+    },
+    "MATH-4000-1": {
         "name": " Nonlinear Op[timization ",
         "type": "LEC",
         "sections": [
@@ -18707,6 +21644,46 @@
         ]
     },
     "STAT-4000": {
+        "name": " Regression Analysis ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "23",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Lambton Tower9118 "
+            }
+        ],
+        "profs": [
+            "Hlynka,Myron "
+        ]
+    },
+    "STAT-4000-1": {
+        "name": " Statistical Learning ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "35",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "04:00 PM",
+                    "end": "05:20 PM"
+                },
+                "room": " Lambton Tower9118 "
+            }
+        ],
+        "profs": [
+            "Belalia,Mohamed "
+        ]
+    },
+    "STAT-4000-2": {
         "name": " Statistical Data Analysis ",
         "type": "LEC",
         "sections": [
@@ -18764,6 +21741,26 @@
         ]
     },
     "PHYS-1310": {
+        "name": " Intro Physics - Life Scie II  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  200  "
+            }
+        ],
+        "profs": [
+            "Maeva,Elena Y"
+        ]
+    },
+    "PHYS-1310-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -18833,6 +21830,48 @@
         ]
     },
     "PHYS-1410": {
+        "name": " Introductory Physics II  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  100  "
+            },
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Odette Building 104 "
+            },
+            {
+                "number": "3",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MWF",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:20 PM"
+                },
+                "room": " Toldo Health  Education Ctr  202  "
+            }
+        ],
+        "profs": [
+            "Petro,Robert A"
+        ]
+    },
+    "PHYS-1410-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19092,6 +22131,26 @@
         ]
     },
     "PHYS-1500": {
+        "name": " From Symmetry to Chaos-Univers ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Essex Hall 287 "
+            }
+        ],
+        "profs": [
+            "Kim,Eugene "
+        ]
+    },
+    "PHYS-1500-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19111,6 +22170,26 @@
         ]
     },
     "PHYS-2500": {
+        "name": " Intermediate Mechanics ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Erie Hall 2127 "
+            }
+        ],
+        "profs": [
+            "Hammond,Tj J"
+        ]
+    },
+    "PHYS-2500-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19142,6 +22221,26 @@
         ]
     },
     "PHYS-3100": {
+        "name": " Quantum Physics and Chemistry ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "02:30 PM",
+                    "end": "03:50 PM"
+                },
+                "room": " Dillon Hall 256 "
+            }
+        ],
+        "profs": [
+            "Maeva,Elena Y"
+        ]
+    },
+    "PHYS-3100-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19186,6 +22285,26 @@
         ]
     },
     "PHYS-3210": {
+        "name": " Electromagnetic Waves ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "11:30 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Erie Hall 2126 "
+            }
+        ],
+        "profs": [
+            "Hammond,Tj J"
+        ]
+    },
+    "PHYS-3210-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19307,6 +22426,26 @@
         ]
     },
     "PHYS-4710": {
+        "name": " Intro to Medical Imaging ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:30 PM"
+                },
+                "room": "  Essex Hall  288-1 "
+            }
+        ],
+        "profs": [
+            "Xiao,Dan "
+        ]
+    },
+    "PHYS-4710-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19398,6 +22537,26 @@
         ]
     },
     "ESCI-1111": {
+        "name": " Introduction to Earth Science ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Erie Hall 1118 "
+            }
+        ],
+        "profs": [
+            "Polat,Ali "
+        ]
+    },
+    "ESCI-1111-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19517,6 +22676,26 @@
         ]
     },
     "ESCI-2121": {
+        "name": " Principles&Apps/Geog Info Sys ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "01:50 PM"
+                },
+                "room": "  Chrysler Hall  South 53 Grgicak-"
+            }
+        ],
+        "profs": [
+            "Mannion,Alice "
+        ]
+    },
+    "ESCI-2121-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19596,6 +22775,26 @@
         ]
     },
     "ESCI-2401": {
+        "name": " Environmental Geomorphology ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:20 AM"
+                },
+                "room": " Chrysler Hall North G125 "
+            }
+        ],
+        "profs": [
+            "Trenhaile,Alan S"
+        ]
+    },
+    "ESCI-2401-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19625,6 +22824,26 @@
         ]
     },
     "ESCI-2421": {
+        "name": " Soils and Sediments ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "10:50 AM"
+                },
+                "room": " Memorial Hall 201 Al-"
+            }
+        ],
+        "profs": [
+            "Aasm,Ihsan S"
+        ]
+    },
+    "ESCI-2421-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19664,6 +22883,26 @@
         ]
     },
     "ESCI-3301": {
+        "name": " Hydrogeology ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "10:50 AM"
+                },
+                "room": " Memorial Hall 301 "
+            }
+        ],
+        "profs": [
+            "Yang,Jianwen "
+        ]
+    },
+    "ESCI-3301-1": {
         "name": " Laboratory    ",
         "type": "LAB",
         "sections": [
@@ -19703,6 +22942,27 @@
         ]
     },
     "ESCI-3711": {
+        "name": " Principle-Instrumentl Analysis  ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Toldo Health  Education Ctr  200  "
+            }
+        ],
+        "profs": [
+            "Lee,Una M",
+            "Samson,Iain M"
+        ]
+    },
+    "ESCI-3711-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19722,6 +22982,26 @@
         ]
     },
     "ESCI-3721": {
+        "name": " Environmental Geophysics ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "10:50 AM"
+                },
+                "room": " Memorial Hall   301 "
+            }
+        ],
+        "profs": [
+            "Yang,Jianwen "
+        ]
+    },
+    "ESCI-3721-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19756,6 +23036,26 @@
         ]
     },
     "ESCI-3801": {
+        "name": " Scientific Writing & Data Mgmt ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "M",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": "  Memorial Hall  211 "
+            }
+        ],
+        "profs": [
+            "Cioppa,Maria T"
+        ]
+    },
+    "ESCI-3801-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19775,6 +23075,26 @@
         ]
     },
     "ESCI-4701": {
+        "name": " Remote Sensing ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "01:50 PM"
+                },
+                "room": " Memorial Hall 301 "
+            }
+        ],
+        "profs": [
+            "Proctor,Cameron "
+        ]
+    },
+    "ESCI-4701-1": {
         "name": " Laboratory ",
         "type": "LAB",
         "sections": [
@@ -19815,6 +23135,87 @@
         ]
     },
     "ESCI-4808": {
+        "name": " Coastal and Glacial Geomorphol ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "1",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TTH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "11:20 AM"
+                },
+                "room": " Erie Hall 1115 "
+            }
+        ],
+        "profs": [
+            "Trenhaile,Alan S"
+        ]
+    },
+    "ESCI-4808-1": {
+        "name": " GeoStatistics ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "17",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Dillon Hall 253 "
+            }
+        ],
+        "profs": [
+            "Proctor,Cameron ",
+            "Proctor,Cameron "
+        ]
+    },
+    "ESCI-4808-2": {
+        "name": " Grt Lakes Water Quality Agreem ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "01:00 PM",
+                    "end": "02:20 PM"
+                },
+                "room": " Memorial Hall 201 "
+            }
+        ],
+        "profs": [
+            "Drouillard,Kenneth G"
+        ]
+    },
+    "ESCI-4808-3": {
+        "name": " Global Water Crisis ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "3",
+                "full?": false,
+                "credits": "3.00",
+                "days": "MW",
+                "time": {
+                    "start": "08:30 AM",
+                    "end": "09:50 AM"
+                },
+                "room": " Memorial Hall   105 "
+            }
+        ],
+        "profs": [
+            "Drouillard,Kenneth G"
+        ]
+    },
+    "ESCI-4808-4": {
         "name": " Life of the Honey Bee ",
         "type": "LEC",
         "sections": [
@@ -21974,6 +25375,26 @@
         ]
     },
     "STEN-4910": {
+        "name": " Spec Tpcs:Strat Mgt/Entrp.ship ",
+        "type": "LEC",
+        "sections": [
+            {
+                "number": "2",
+                "full?": false,
+                "credits": "3.00",
+                "days": "TH",
+                "time": {
+                    "start": "10:00 AM",
+                    "end": "12:50 PM"
+                },
+                "room": " Odette Building207 "
+            }
+        ],
+        "profs": [
+            "Kenworthy,Thomas P"
+        ]
+    },
+    "STEN-4910-1": {
         "name": " Business Agreements ",
         "type": "LEC",
         "sections": [
