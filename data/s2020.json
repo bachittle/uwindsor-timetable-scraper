@@ -19,11 +19,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Reaume,Marissa "
             }
-        ],
-        "profs": [
-            "Reaume,Marissa "
         ]
     },
     "GART-1510": {
@@ -34,11 +32,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Gayowsky,Alex C"
             }
-        ],
-        "profs": [
-            "Gayowsky,Alex C"
         ]
     },
     "GART-3100": {
@@ -49,11 +45,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brunet,Tim A"
             }
-        ],
-        "profs": [
-            "Brunet,Tim A"
         ]
     },
     "SJST-1400": {
@@ -64,11 +58,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hrynyk,Nick A"
             }
-        ],
-        "profs": [
-            "Hrynyk,Nick A"
         ]
     },
     "SOSC-2500": {
@@ -139,11 +131,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Boroughs,Michael "
             }
-        ],
-        "profs": [
-            "Boroughs,Michael "
         ]
     },
     "SOSC-3100": {
@@ -154,11 +144,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brunet,Tim A"
             }
-        ],
-        "profs": [
-            "Brunet,Tim A"
         ]
     },
     "SOSC-3100-1": {
@@ -169,11 +157,9 @@
                 "number": "92",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brunet,Tim A"
             }
-        ],
-        "profs": [
-            "Brunet,Tim A"
         ]
     },
     "CASJ-8960": {
@@ -208,11 +194,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Jankowski,Steve "
             }
-        ],
-        "profs": [
-            "Jankowski,Steve "
         ]
     },
     "MACS-2450": {
@@ -223,11 +207,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Moore,Jeanne "
             }
-        ],
-        "profs": [
-            "Moore,Jeanne "
         ]
     },
     "MACS-8000": {
@@ -243,11 +225,9 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Nelson,Kim "
             }
-        ],
-        "profs": [
-            "Nelson,Kim "
         ]
     },
     "VSAR-1080": {
@@ -263,11 +243,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Hector,Nick "
             }
-        ],
-        "profs": [
-            "Hector,Nick "
         ]
     },
     "VSAR-3650": {
@@ -278,11 +256,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Moore,Dorian "
             }
-        ],
-        "profs": [
-            "Moore,Dorian "
         ]
     },
     "VSAR-3800": {
@@ -293,11 +269,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Dowall,Cyndra J."
             }
-        ],
-        "profs": [
-            "Dowall,Cyndra J."
         ]
     },
     "VSAR-3850": {
@@ -313,11 +287,9 @@
                     "start": "11:30 AM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Moore,Dorian "
             }
-        ],
-        "profs": [
-            "Moore,Dorian "
         ]
     },
     "VSAR-8630": {
@@ -328,11 +300,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Rodney,Lee "
             }
-        ],
-        "profs": [
-            "Rodney,Lee "
         ]
     },
     "VSAR-8970": {
@@ -343,11 +313,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Rodney,Lee "
             }
-        ],
-        "profs": [
-            "Rodney,Lee "
         ]
     },
     "DRAM-2100": {
@@ -358,11 +326,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brunet,Tim A"
             }
-        ],
-        "profs": [
-            "Brunet,Tim A"
         ]
     },
     "DRAM-2720": {
@@ -373,11 +339,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brodie,Barry "
             }
-        ],
-        "profs": [
-            "Brodie,Barry "
         ]
     },
     "DRAM-3510": {
@@ -388,11 +352,9 @@
                 "number": "4",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Pugliese,Tina M"
             }
-        ],
-        "profs": [
-            "Pugliese,Tina M"
         ]
     },
     "DRAM-3520": {
@@ -403,11 +365,9 @@
                 "number": "4",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Pugliese,Tina M"
             }
-        ],
-        "profs": [
-            "Pugliese,Tina M"
         ]
     },
     "DRAM-3980": {
@@ -418,11 +378,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Pugliese,Tina M"
             }
-        ],
-        "profs": [
-            "Pugliese,Tina M"
         ]
     },
     "DRAM-3990": {
@@ -433,11 +391,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Pugliese,Tina M"
             }
-        ],
-        "profs": [
-            "Pugliese,Tina M"
         ]
     },
     "DRAM-4000": {
@@ -448,11 +404,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Walsh,Lionel R"
             }
-        ],
-        "profs": [
-            "Walsh,Lionel R"
         ]
     },
     "ENGL-1001": {
@@ -463,17 +417,16 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Langs,Lenore K"
             },
             {
                 "number": "92",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Langs,Lenore K"
             }
-        ],
-        "profs": [
-            "Langs,Lenore K"
         ]
     },
     "ENGL-2530": {
@@ -484,11 +437,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Luft,Joanna L"
             }
-        ],
-        "profs": [
-            "Luft,Joanna L"
         ]
     },
     "ENGL-8750": {
@@ -499,11 +450,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Papador,Johanna "
             }
-        ],
-        "profs": [
-            "Papador,Johanna "
         ]
     },
     "ENGL-8940": {
@@ -514,11 +463,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Luft,Joanna L"
             }
-        ],
-        "profs": [
-            "Luft,Joanna L"
         ]
     },
     "ENGL-8970": {
@@ -529,11 +476,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Luft,Joanna L"
             }
-        ],
-        "profs": [
-            "Luft,Joanna L"
         ]
     },
     "HIST-2510": {
@@ -544,11 +489,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hrynyk,Nick A"
             }
-        ],
-        "profs": [
-            "Hrynyk,Nick A"
         ]
     },
     "HIST-2720": {
@@ -564,11 +507,9 @@
                     "start": "10:00 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Palmer,Steven "
             }
-        ],
-        "profs": [
-            "Palmer,Steven "
         ]
     },
     "HIST-2970": {
@@ -584,11 +525,9 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Palmer,Steven "
             }
-        ],
-        "profs": [
-            "Palmer,Steven "
         ]
     },
     "HIST-4970": {
@@ -599,11 +538,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Teasdale,Guillaume "
             }
-        ],
-        "profs": [
-            "Teasdale,Guillaume "
         ]
     },
     "HIST-8590": {
@@ -614,11 +551,9 @@
                 "number": "3",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Teasdale,Guillaume "
             }
-        ],
-        "profs": [
-            "Teasdale,Guillaume "
         ]
     },
     "HIST-8960": {
@@ -641,11 +576,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Rossini,Antonio "
             }
-        ],
-        "profs": [
-            "Rossini,Antonio "
         ]
     },
     "PHIL-1290": {
@@ -656,11 +589,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Guetter,David L."
             }
-        ],
-        "profs": [
-            "Guetter,David L."
         ]
     },
     "PHIL-1600": {
@@ -676,11 +607,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tindale,Christopher "
             }
-        ],
-        "profs": [
-            "Tindale,Christopher "
         ]
     },
     "PHIL-1600-1": {
@@ -696,7 +625,8 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tindale,Christopher "
             },
             {
                 "number": "51",
@@ -707,7 +637,8 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tindale,Christopher "
             },
             {
                 "number": "52",
@@ -718,7 +649,8 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tindale,Christopher "
             },
             {
                 "number": "53",
@@ -729,11 +661,9 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tindale,Christopher "
             }
-        ],
-        "profs": [
-            "Tindale,Christopher "
         ]
     },
     "PHIL-2210": {
@@ -744,11 +674,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Macpherson,Brian P"
             }
-        ],
-        "profs": [
-            "Macpherson,Brian P"
         ]
     },
     "PHIL-2250": {
@@ -759,11 +687,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Macpherson,Brian P"
             }
-        ],
-        "profs": [
-            "Macpherson,Brian P"
         ]
     },
     "PHIL-8800": {
@@ -774,11 +700,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Tindale,Christopher "
             }
-        ],
-        "profs": [
-            "Tindale,Christopher "
         ]
     },
     "PHIL-8960": {
@@ -789,11 +713,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Neculau,Radu "
             }
-        ],
-        "profs": [
-            "Neculau,Radu "
         ]
     },
     "PHIL-8970": {
@@ -804,11 +726,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Neculau,Radu "
             }
-        ],
-        "profs": [
-            "Neculau,Radu "
         ]
     },
     "POLS-2320": {
@@ -819,11 +739,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Roberts,Blake C"
             }
-        ],
-        "profs": [
-            "Roberts,Blake C"
         ]
     },
     "POLS-2680": {
@@ -834,11 +752,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Roberts,Blake C"
             }
-        ],
-        "profs": [
-            "Roberts,Blake C"
         ]
     },
     "POLS-3230": {
@@ -849,11 +765,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Heuton,Robert "
             }
-        ],
-        "profs": [
-            "Heuton,Robert "
         ]
     },
     "POLS-8950": {
@@ -864,11 +778,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Sutcliffe,John B"
             }
-        ],
-        "profs": [
-            "Sutcliffe,John B"
         ]
     },
     "POLS-8960": {
@@ -879,11 +791,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Ovadia,Jesse "
             }
-        ],
-        "profs": [
-            "Ovadia,Jesse "
         ]
     },
     "POLS-8970": {
@@ -894,11 +804,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Ovadia,Jesse "
             }
-        ],
-        "profs": [
-            "Ovadia,Jesse "
         ]
     },
     "PSYC-1150": {
@@ -909,11 +817,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mattson,Scott R"
             }
-        ],
-        "profs": [
-            "Mattson,Scott R"
         ]
     },
     "PSYC-1160": {
@@ -929,11 +835,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Cramer,Kenneth M"
             }
-        ],
-        "profs": [
-            "Cramer,Kenneth M"
         ]
     },
     "PSYC-2230": {
@@ -944,11 +848,9 @@
                 "number": "30",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Beliciu,Daniel "
             }
-        ],
-        "profs": [
-            "Beliciu,Daniel "
         ]
     },
     "PSYC-2240": {
@@ -964,11 +866,9 @@
                     "start": "11:30 AM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Fritz,Patti "
             }
-        ],
-        "profs": [
-            "Fritz,Patti "
         ]
     },
     "PSYC-2280": {
@@ -979,11 +879,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Jackson,Jill "
             }
-        ],
-        "profs": [
-            "Jackson,Jill "
         ]
     },
     "PSYC-2360": {
@@ -994,11 +892,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Cramer,Kenneth M"
             }
-        ],
-        "profs": [
-            "Cramer,Kenneth M"
         ]
     },
     "PSYC-3100": {
@@ -1009,11 +905,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Towson,Shelagh M"
             }
-        ],
-        "profs": [
-            "Towson,Shelagh M"
         ]
     },
     "PSYC-3330": {
@@ -1040,11 +934,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Gardiner,Healey "
             }
-        ],
-        "profs": [
-            "Gardiner,Healey "
         ]
     },
     "PSYC-8701": {
@@ -1055,11 +947,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Harrington,Shawn "
             }
-        ],
-        "profs": [
-            "Harrington,Shawn "
         ]
     },
     "PSYC-8721": {
@@ -1070,11 +960,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Cramer,Kenneth M"
             }
-        ],
-        "profs": [
-            "Cramer,Kenneth M"
         ]
     },
     "PSYC-8970": {
@@ -1085,11 +973,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Buchanan,Lori L."
             }
-        ],
-        "profs": [
-            "Buchanan,Lori L."
         ]
     },
     "PSYC-9020": {
@@ -1100,11 +986,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Harrington,Shawn "
             }
-        ],
-        "profs": [
-            "Harrington,Shawn "
         ]
     },
     "PSYC-9060": {
@@ -1115,11 +999,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Miller,Carlin "
             }
-        ],
-        "profs": [
-            "Miller,Carlin "
         ]
     },
     "PSYC-9310": {
@@ -1130,11 +1012,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Cramer,Kenneth M"
             }
-        ],
-        "profs": [
-            "Cramer,Kenneth M"
         ]
     },
     "PSYC-9320": {
@@ -1145,11 +1025,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Cramer,Kenneth M"
             }
-        ],
-        "profs": [
-            "Cramer,Kenneth M"
         ]
     },
     "PSYC-9410": {
@@ -1160,17 +1038,16 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Cramer,Kenneth M"
             },
             {
                 "number": "2",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Babb,Kim "
             }
-        ],
-        "profs": [
-            "Babb,Kim "
         ]
     },
     "PSYC-9980": {
@@ -1181,17 +1058,16 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Buchanan,Lori L."
             },
             {
                 "number": "2",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Lafreniere,Kathryn D"
             }
-        ],
-        "profs": [
-            "Lafreniere,Kathryn D"
         ]
     },
     "SWRK-2000": {
@@ -1202,11 +1078,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brisebois,Kimberly "
             }
-        ],
-        "profs": [
-            "Brisebois,Kimberly "
         ]
     },
     "SWRK-8523": {
@@ -1222,12 +1096,9 @@
                     "start": "09:30 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lwin,Kristen "
             }
-        ],
-        "profs": [
-            "Lwin,Kristen ",
-            "Lwin,Kristen "
         ]
     },
     "SWRK-8532": {
@@ -1238,29 +1109,30 @@
                 "number": "910",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Romano,Mario "
             },
             {
                 "number": "920",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Bennett,Michael "
             },
             {
                 "number": "930",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Taylor,Dalon "
             },
             {
                 "number": "940",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Kuhn,Beth E"
             }
-        ],
-        "profs": [
-            "Kuhn,Beth E"
         ]
     },
     "SWRK-8533": {
@@ -1271,29 +1143,30 @@
                 "number": "910",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Adamowich,Todd "
             },
             {
                 "number": "920",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Coyle,Jim "
             },
             {
                 "number": "930",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Pitt,Gabrielle E."
             },
             {
                 "number": "940",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Lehmann,Peter J"
             }
-        ],
-        "profs": [
-            "Lehmann,Peter J"
         ]
     },
     "SWRK-8534": {
@@ -1304,29 +1177,30 @@
                 "number": "910",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Taylor,Dalon "
             },
             {
                 "number": "920",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Romano,Mario "
             },
             {
                 "number": "930",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Bennett,Michael "
             },
             {
                 "number": "940",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Kuhn,Beth E"
             }
-        ],
-        "profs": [
-            "Kuhn,Beth E"
         ]
     },
     "SWRK-8547": {
@@ -1337,19 +1211,22 @@
                 "number": "81",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcguire,Wendy "
             },
             {
                 "number": "82",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Sheppard,Christine "
             },
             {
                 "number": "84",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Moasun,Festus "
             },
             {
                 "number": "91",
@@ -1360,47 +1237,51 @@
                     "start": "09:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Yun,Sung H"
             },
             {
                 "number": "950",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brisebois,Kimberly "
             },
             {
                 "number": "960",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Moasun,Festus "
             },
             {
                 "number": "970",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Sheppard,Christine "
             },
             {
                 "number": "980",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcguire,Wendy "
             },
             {
                 "number": "990",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Escobar,Keren M"
             },
             {
                 "number": "991",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brisebois,Kimberly "
             }
-        ],
-        "profs": [
-            "Brisebois,Kimberly "
         ]
     },
     "SWRK-8570": {
@@ -1422,7 +1303,8 @@
                     "start": "09:00 AM",
                     "end": "11:00 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Greco,Adelle "
             },
             {
                 "number": "93",
@@ -1433,11 +1315,9 @@
                     "start": "09:00 AM",
                     "end": "11:00 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Campigotto,Clarissa A."
             }
-        ],
-        "profs": [
-            "Campigotto,Clarissa A."
         ]
     },
     "SWRK-8571": {
@@ -1460,13 +1340,15 @@
                 "number": "81",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Stoddart,Jill K"
             },
             {
                 "number": "82",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Miller,Wayne A"
             },
             {
                 "number": "84",
@@ -1478,11 +1360,9 @@
                 "number": "991",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Saadi,Riham N"
             }
-        ],
-        "profs": [
-            "Saadi,Riham N"
         ]
     },
     "SWRK-8611": {
@@ -1499,7 +1379,8 @@
                 "number": "960",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Carthy,Magnus "
             },
             {
                 "number": "970",
@@ -1511,17 +1392,16 @@
                 "number": "980",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Taylor,Dalon "
             },
             {
                 "number": "990",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Vasey,Adam "
             }
-        ],
-        "profs": [
-            "Vasey,Adam "
         ]
     },
     "SWRK-8622": {
@@ -1532,29 +1412,30 @@
                 "number": "81",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Firang,David Y"
             },
             {
                 "number": "82",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Caragata,Lea "
             },
             {
                 "number": "84",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Carrier,Tracy "
             },
             {
                 "number": "991",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Vasey,Adam "
             }
-        ],
-        "profs": [
-            "Vasey,Adam "
         ]
     },
     "SWRK-8640": {
@@ -1565,35 +1446,37 @@
                 "number": "950",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Faubert,Sarah E"
             },
             {
                 "number": "960",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Adamowich,Todd "
             },
             {
                 "number": "970",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Wade,Carol V"
             },
             {
                 "number": "980",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Saadi,Riham N"
             },
             {
                 "number": "990",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Escobar,Keren M"
             }
-        ],
-        "profs": [
-            "Escobar,Keren M"
         ]
     },
     "SWRK-9980": {
@@ -1604,11 +1487,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Park,Wansoo "
             }
-        ],
-        "profs": [
-            "Park,Wansoo "
         ]
     },
     "SACR-2620": {
@@ -1624,11 +1505,9 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mason,George P"
             }
-        ],
-        "profs": [
-            "Mason,George P"
         ]
     },
     "SACR-3080": {
@@ -1644,11 +1523,9 @@
                     "start": "01:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Maggio,Saverpierre "
             }
-        ],
-        "profs": [
-            "Maggio,Saverpierre "
         ]
     },
     "SACR-3080-1": {
@@ -1663,11 +1540,9 @@
                     "start": "03:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Maggio,Saverpierre "
             }
-        ],
-        "profs": [
-            "Maggio,Saverpierre "
         ]
     },
     "SACR-3630": {
@@ -1683,11 +1558,9 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Groulx,Thomas G"
             }
-        ],
-        "profs": [
-            "Groulx,Thomas G"
         ]
     },
     "SACR-8795": {
@@ -1715,11 +1588,9 @@
                     "start": "03:30 PM",
                     "end": "06:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lippert,Randy "
             }
-        ],
-        "profs": [
-            "Lippert,Randy "
         ]
     },
     "SACR-8900": {
@@ -1730,11 +1601,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "George,Glynis "
             }
-        ],
-        "profs": [
-            "George,Glynis "
         ]
     },
     "SACR-8970": {
@@ -1745,11 +1614,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "George,Glynis "
             }
-        ],
-        "profs": [
-            "George,Glynis "
         ]
     },
     "SACR-9980": {
@@ -1772,11 +1639,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Burgess,Amanda J"
             }
-        ],
-        "profs": [
-            "Burgess,Amanda J"
         ]
     },
     "WGST-1400": {
@@ -1787,11 +1652,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hrynyk,Nick A"
             }
-        ],
-        "profs": [
-            "Hrynyk,Nick A"
         ]
     },
     "WGST-2510": {
@@ -1802,11 +1665,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hrynyk,Nick A"
             }
-        ],
-        "profs": [
-            "Hrynyk,Nick A"
         ]
     },
     "EDUC-8350": {
@@ -1822,17 +1683,16 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tabrizi,Sirous "
             },
             {
                 "number": "92",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Tabrizi,Sirous "
             }
-        ],
-        "profs": [
-            "Tabrizi,Sirous "
         ]
     },
     "EDUC-8360": {
@@ -1848,17 +1708,16 @@
                     "start": "05:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Howitt,Clara "
             },
             {
                 "number": "92",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Cobb,Cam "
             }
-        ],
-        "profs": [
-            "Cobb,Cam "
         ]
     },
     "EDUC-8430": {
@@ -1874,11 +1733,9 @@
                     "start": "05:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Cobb,Cam "
             }
-        ],
-        "profs": [
-            "Cobb,Cam "
         ]
     },
     "EDUC-8510": {
@@ -1889,11 +1746,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Martinovic,Dragana "
             }
-        ],
-        "profs": [
-            "Martinovic,Dragana "
         ]
     },
     "EDUC-8560": {
@@ -1909,17 +1764,16 @@
                     "start": "05:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Nagle,Joelle "
             },
             {
                 "number": "92",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Pollard,Barb "
             }
-        ],
-        "profs": [
-            "Pollard,Barb "
         ]
     },
     "EDUC-8795": {
@@ -1935,11 +1789,9 @@
                     "start": "09:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Cobb,Cam "
             }
-        ],
-        "profs": [
-            "Cobb,Cam "
         ]
     },
     "EDUC-8910": {
@@ -1955,11 +1807,9 @@
                     "start": "09:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Shahbazi,Sara "
             }
-        ],
-        "profs": [
-            "Shahbazi,Sara "
         ]
     },
     "EDUC-8940": {
@@ -2058,11 +1908,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Das,Sreekanta "
             }
-        ],
-        "profs": [
-            "Das,Sreekanta "
         ]
     },
     "CIVL-3610-1": {
@@ -2077,11 +1925,9 @@
                     "start": "02:30 PM",
                     "end": "04:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Das,Sreekanta "
             }
-        ],
-        "profs": [
-            "Das,Sreekanta "
         ]
     },
     "CIVL-3620": {
@@ -2097,11 +1943,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " Van "
+                "room": " Van ",
+                "prof": "Engelen,Niel "
             }
-        ],
-        "profs": [
-            "Engelen,Niel "
         ]
     },
     "CIVL-3620-1": {
@@ -2116,11 +1960,9 @@
                     "start": "05:30 PM",
                     "end": "07:20 PM"
                 },
-                "room": " Van "
+                "room": " Van ",
+                "prof": "Engelen,Niel "
             }
-        ],
-        "profs": [
-            "Engelen,Niel "
         ]
     },
     "CIVL-3630": {
@@ -2136,11 +1978,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Polies,Wafa "
             }
-        ],
-        "profs": [
-            "Polies,Wafa "
         ]
     },
     "CIVL-3630-1": {
@@ -2155,11 +1995,9 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Polies,Wafa "
             }
-        ],
-        "profs": [
-            "Polies,Wafa "
         ]
     },
     "CIVL-3640": {
@@ -2175,11 +2013,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Das,Sreekanta "
             }
-        ],
-        "profs": [
-            "Das,Sreekanta "
         ]
     },
     "CIVL-3640-1": {
@@ -2194,11 +2030,9 @@
                     "start": "04:00 PM",
                     "end": "05:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Das,Sreekanta "
             }
-        ],
-        "profs": [
-            "Das,Sreekanta "
         ]
     },
     "CIVL-3650": {
@@ -2214,11 +2048,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kim,Yong H"
             }
-        ],
-        "profs": [
-            "Kim,Yong H"
         ]
     },
     "CIVL-3650-1": {
@@ -2233,11 +2065,9 @@
                     "start": "05:30 PM",
                     "end": "07:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kim,Yong H"
             }
-        ],
-        "profs": [
-            "Kim,Yong H"
         ]
     },
     "CIVL-4000": {
@@ -2253,11 +2083,9 @@
                     "start": "08:30 AM",
                     "end": "10:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Xu,Iris "
             }
-        ],
-        "profs": [
-            "Xu,Iris "
         ]
     },
     "CIVL-4810": {
@@ -2273,11 +2101,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lee,Chris "
             }
-        ],
-        "profs": [
-            "Lee,Chris "
         ]
     },
     "CIVL-4810-1": {
@@ -2292,11 +2118,9 @@
                     "start": "12:30 PM",
                     "end": "02:30 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lee,Chris "
             }
-        ],
-        "profs": [
-            "Lee,Chris "
         ]
     },
     "CIVL-4820": {
@@ -2312,11 +2136,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Ruparathna,Rajeev "
             }
-        ],
-        "profs": [
-            "Ruparathna,Rajeev "
         ]
     },
     "CIVL-4820-1": {
@@ -2331,11 +2153,9 @@
                     "start": "02:30 PM",
                     "end": "04:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Ruparathna,Rajeev "
             }
-        ],
-        "profs": [
-            "Ruparathna,Rajeev "
         ]
     },
     "CIVL-4910": {
@@ -2351,11 +2171,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Polies,Wafa "
             }
-        ],
-        "profs": [
-            "Polies,Wafa "
         ]
     },
     "CIVL-4910-1": {
@@ -2370,11 +2188,9 @@
                     "start": "05:30 PM",
                     "end": "07:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Polies,Wafa "
             }
-        ],
-        "profs": [
-            "Polies,Wafa "
         ]
     },
     "CIVL-4920": {
@@ -2390,11 +2206,9 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " Van "
+                "room": " Van ",
+                "prof": "Engelen,Niel "
             }
-        ],
-        "profs": [
-            "Engelen,Niel "
         ]
     },
     "CIVL-4920-1": {
@@ -2409,11 +2223,9 @@
                     "start": "05:30 PM",
                     "end": "07:20 PM"
                 },
-                "room": " Van "
+                "room": " Van ",
+                "prof": "Engelen,Niel "
             }
-        ],
-        "profs": [
-            "Engelen,Niel "
         ]
     },
     "CIVL-4940": {
@@ -2429,11 +2241,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Maoh,Hanna "
             }
-        ],
-        "profs": [
-            "Maoh,Hanna "
         ]
     },
     "CIVL-4940-1": {
@@ -2448,11 +2258,9 @@
                     "start": "12:30 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Maoh,Hanna "
             }
-        ],
-        "profs": [
-            "Maoh,Hanna "
         ]
     },
     "CIVL-8310": {
@@ -2463,11 +2271,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Tape,William D"
             }
-        ],
-        "profs": [
-            "Tape,William D"
         ]
     },
     "CIVL-8595": {
@@ -2483,11 +2289,9 @@
                     "start": "05:30 PM",
                     "end": "06:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Bolisetti,Tirupati "
             }
-        ],
-        "profs": [
-            "Bolisetti,Tirupati "
         ]
     },
     "CIVL-8900": {
@@ -2498,11 +2302,9 @@
                 "number": "16",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Tape,William D"
             }
-        ],
-        "profs": [
-            "Tape,William D"
         ]
     },
     "CIVL-8900-1": {
@@ -2518,11 +2320,9 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Maoh,Hanna "
             }
-        ],
-        "profs": [
-            "Maoh,Hanna "
         ]
     },
     "CIVL-8900-2": {
@@ -2538,11 +2338,9 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Zohrehheydariha,Jamshid "
             }
-        ],
-        "profs": [
-            "Zohrehheydariha,Jamshid "
         ]
     },
     "CIVL-8900-3": {
@@ -2558,11 +2356,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Polies,Wafa "
             }
-        ],
-        "profs": [
-            "Polies,Wafa "
         ]
     },
     "CIVL-8900-4": {
@@ -2578,11 +2374,9 @@
                     "start": "10:00 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Polies,Wafa "
             }
-        ],
-        "profs": [
-            "Polies,Wafa "
         ]
     },
     "CIVL-8900-5": {
@@ -2598,11 +2392,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tam,Edwin "
             }
-        ],
-        "profs": [
-            "Tam,Edwin "
         ]
     },
     "CIVL-8900-6": {
@@ -2618,11 +2410,9 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kim,Yong H"
             }
-        ],
-        "profs": [
-            "Kim,Yong H"
         ]
     },
     "CIVL-8900-7": {
@@ -2638,11 +2428,9 @@
                     "start": "11:30 AM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Ruparathna,Rajeev "
             }
-        ],
-        "profs": [
-            "Ruparathna,Rajeev "
         ]
     },
     "CIVL-8960": {
@@ -2694,11 +2482,9 @@
                     "start": "08:30 AM",
                     "end": "10:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Xu,Iris "
             }
-        ],
-        "profs": [
-            "Xu,Iris "
         ]
     },
     "ENVE-4810": {
@@ -2714,11 +2500,9 @@
                     "start": "11:30 AM",
                     "end": "12:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tam,Edwin "
             }
-        ],
-        "profs": [
-            "Tam,Edwin "
         ]
     },
     "ENVE-4810-1": {
@@ -2733,11 +2517,9 @@
                     "start": "12:30 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tam,Edwin "
             }
-        ],
-        "profs": [
-            "Tam,Edwin "
         ]
     },
     "ENVE-4820": {
@@ -2753,12 +2535,9 @@
                     "start": "12:30 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Bolisetti,Tirupati "
             }
-        ],
-        "profs": [
-            "Bolisetti,Tirupati ",
-            "Bolisetti,Tirupati "
         ]
     },
     "ENVE-8500": {
@@ -2774,11 +2553,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tam,Edwin "
             }
-        ],
-        "profs": [
-            "Tam,Edwin "
         ]
     },
     "ENVE-8595": {
@@ -2794,11 +2571,9 @@
                     "start": "05:30 PM",
                     "end": "06:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Bolisetti,Tirupati "
             }
-        ],
-        "profs": [
-            "Bolisetti,Tirupati "
         ]
     },
     "ENVE-8900": {
@@ -2814,11 +2589,9 @@
                     "start": "09:30 AM",
                     "end": "12:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Xu,Iris "
             }
-        ],
-        "profs": [
-            "Xu,Iris "
         ]
     },
     "ENVE-8900-1": {
@@ -2834,11 +2607,9 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Maoh,Hanna "
             }
-        ],
-        "profs": [
-            "Maoh,Hanna "
         ]
     },
     "ENVE-8900-2": {
@@ -2854,12 +2625,9 @@
                     "start": "12:30 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Bolisetti,Tirupati "
             }
-        ],
-        "profs": [
-            "Bolisetti,Tirupati ",
-            "Bolisetti,Tirupati "
         ]
     },
     "ENVE-8960": {
@@ -2910,11 +2678,9 @@
                     "start": "01:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chowdhury,Sazzadur R"
             }
-        ],
-        "profs": [
-            "Chowdhury,Sazzadur R"
         ]
     },
     "ELEC-2250-1": {
@@ -2930,11 +2696,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chowdhury,Sazzadur R"
             }
-        ],
-        "profs": [
-            "Chowdhury,Sazzadur R"
         ]
     },
     "ELEC-3240": {
@@ -2950,11 +2714,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chen,Xiang "
             }
-        ],
-        "profs": [
-            "Chen,Xiang "
         ]
     },
     "ELEC-3240-1": {
@@ -2969,11 +2731,9 @@
                     "start": "11:30 AM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chen,Xiang "
             }
-        ],
-        "profs": [
-            "Chen,Xiang "
         ]
     },
     "ELEC-3270": {
@@ -2989,11 +2749,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Muscedere,Roberto "
             }
-        ],
-        "profs": [
-            "Muscedere,Roberto "
         ]
     },
     "ELEC-3270-1": {
@@ -3008,11 +2766,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Muscedere,Roberto "
             }
-        ],
-        "profs": [
-            "Muscedere,Roberto "
         ]
     },
     "ELEC-3290": {
@@ -3027,11 +2783,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Shahrrava,Behnam "
             }
-        ],
-        "profs": [
-            "Shahrrava,Behnam "
         ]
     },
     "ELEC-3290-1": {
@@ -3047,11 +2801,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Shahrrava,Behnam "
             }
-        ],
-        "profs": [
-            "Shahrrava,Behnam "
         ]
     },
     "ELEC-4000": {
@@ -3066,11 +2818,9 @@
                     "start": "10:00 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Muscedere,Roberto "
             }
-        ],
-        "profs": [
-            "Muscedere,Roberto "
         ]
     },
     "ELEC-4000-1": {
@@ -3086,11 +2836,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Muscedere,Roberto "
             }
-        ],
-        "profs": [
-            "Muscedere,Roberto "
         ]
     },
     "ELEC-4320": {
@@ -3105,11 +2853,9 @@
                     "start": "05:30 PM",
                     "end": "07:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Shahrrava,Behnam "
             }
-        ],
-        "profs": [
-            "Shahrrava,Behnam "
         ]
     },
     "ELEC-4320-1": {
@@ -3125,11 +2871,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Shahrrava,Behnam "
             }
-        ],
-        "profs": [
-            "Shahrrava,Behnam "
         ]
     },
     "ELEC-4330": {
@@ -3144,11 +2888,9 @@
                     "start": "03:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chen,Chunhong "
             }
-        ],
-        "profs": [
-            "Chen,Chunhong "
         ]
     },
     "ELEC-4330-1": {
@@ -3164,11 +2906,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chen,Chunhong "
             }
-        ],
-        "profs": [
-            "Chen,Chunhong "
         ]
     },
     "ELEC-4350": {
@@ -3184,11 +2924,9 @@
                     "start": "04:00 PM",
                     "end": "05:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chowdhury,Sazzadur R"
             }
-        ],
-        "profs": [
-            "Chowdhury,Sazzadur R"
         ]
     },
     "ELEC-4350-1": {
@@ -3203,11 +2941,9 @@
                     "start": "03:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chowdhury,Sazzadur R"
             }
-        ],
-        "profs": [
-            "Chowdhury,Sazzadur R"
         ]
     },
     "ELEC-4390": {
@@ -3223,11 +2959,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kwan,Hon K"
             }
-        ],
-        "profs": [
-            "Kwan,Hon K"
         ]
     },
     "ELEC-4390-1": {
@@ -3242,11 +2976,9 @@
                     "start": "01:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kwan,Hon K"
             }
-        ],
-        "profs": [
-            "Kwan,Hon K"
         ]
     },
     "ELEC-4400": {
@@ -3261,11 +2993,9 @@
                     "start": "05:30 PM",
                     "end": "07:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Shahrrava,Behnam "
             }
-        ],
-        "profs": [
-            "Shahrrava,Behnam "
         ]
     },
     "ELEC-4400-1": {
@@ -3281,11 +3011,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Shahrrava,Behnam "
             }
-        ],
-        "profs": [
-            "Shahrrava,Behnam "
         ]
     },
     "ELEC-4470": {
@@ -3300,11 +3028,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Erfani,Shervin "
             }
-        ],
-        "profs": [
-            "Erfani,Shervin "
         ]
     },
     "ELEC-4470-1": {
@@ -3320,11 +3046,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Erfani,Shervin "
             }
-        ],
-        "profs": [
-            "Erfani,Shervin "
         ]
     },
     "ELEC-4480": {
@@ -3340,11 +3064,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Muscedere,Roberto "
             }
-        ],
-        "profs": [
-            "Muscedere,Roberto "
         ]
     },
     "ELEC-4480-1": {
@@ -3359,11 +3081,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Muscedere,Roberto "
             }
-        ],
-        "profs": [
-            "Muscedere,Roberto "
         ]
     },
     "ELEC-4490": {
@@ -3378,11 +3098,9 @@
                     "start": "09:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Alirezaee,Shahpour "
             }
-        ],
-        "profs": [
-            "Alirezaee,Shahpour "
         ]
     },
     "ELEC-4600": {
@@ -3398,11 +3116,9 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Azzouz,Maher "
             }
-        ],
-        "profs": [
-            "Azzouz,Maher "
         ]
     },
     "ELEC-4600-1": {
@@ -3417,11 +3133,9 @@
                     "start": "01:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Azzouz,Maher "
             }
-        ],
-        "profs": [
-            "Azzouz,Maher "
         ]
     },
     "ELEC-8360": {
@@ -3437,12 +3151,9 @@
                     "start": "04:30 PM",
                     "end": "07:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chen,Xiang "
             }
-        ],
-        "profs": [
-            "Chen,Xiang ",
-            "Chen,Xiang "
         ]
     },
     "ELEC-8410": {
@@ -3458,11 +3169,9 @@
                     "start": "11:30 AM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chen,Chunhong "
             }
-        ],
-        "profs": [
-            "Chen,Chunhong "
         ]
     },
     "ELEC-8630": {
@@ -3478,11 +3187,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Shahrrava,Behnam "
             }
-        ],
-        "profs": [
-            "Shahrrava,Behnam "
         ]
     },
     "ELEC-8900": {
@@ -3524,11 +3231,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Erfani,Shervin "
             }
-        ],
-        "profs": [
-            "Erfani,Shervin "
         ]
     },
     "ELEC-8900-2": {
@@ -3544,11 +3249,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chen,Chunhong "
             }
-        ],
-        "profs": [
-            "Chen,Chunhong "
         ]
     },
     "ELEC-8900-3": {
@@ -3564,11 +3267,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kwan,Hon K"
             }
-        ],
-        "profs": [
-            "Kwan,Hon K"
         ]
     },
     "ELEC-8900-4": {
@@ -3584,11 +3285,9 @@
                     "start": "02:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " Razavi "
+                "room": " Razavi ",
+                "prof": "Far,Roozbeh "
             }
-        ],
-        "profs": [
-            "Far,Roozbeh "
         ]
     },
     "ELEC-8900-5": {
@@ -3604,11 +3303,9 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kwan,Hon K"
             }
-        ],
-        "profs": [
-            "Kwan,Hon K"
         ]
     },
     "ELEC-8900-6": {
@@ -3619,11 +3316,9 @@
                 "number": "7",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Emadi,Arezoo "
             }
-        ],
-        "profs": [
-            "Emadi,Arezoo "
         ]
     },
     "ELEC-8970": {
@@ -3663,12 +3358,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Salfi,Lisa M."
             }
-        ],
-        "profs": [
-            "Salfi,Lisa M.",
-            "Stagner,Jacqueline A"
         ]
     },
     "GENG-1200": {
@@ -3684,11 +3376,9 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Eaves,Nick "
             }
-        ],
-        "profs": [
-            "Eaves,Nick "
         ]
     },
     "GENG-1200-1": {
@@ -3703,11 +3393,9 @@
                     "start": "02:30 PM",
                     "end": "04:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Eaves,Nick "
             }
-        ],
-        "profs": [
-            "Eaves,Nick "
         ]
     },
     "GENG-2180": {
@@ -3723,11 +3411,9 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lee,Chris "
             }
-        ],
-        "profs": [
-            "Lee,Chris "
         ]
     },
     "GENG-2180-1": {
@@ -3742,11 +3428,9 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lee,Chris "
             }
-        ],
-        "profs": [
-            "Lee,Chris "
         ]
     },
     "GENG-2500": {
@@ -3762,11 +3446,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " Miller-"
+                "room": " Miller-",
+                "prof": "Branovacki,Lindsay "
             }
-        ],
-        "profs": [
-            "Branovacki,Lindsay "
         ]
     },
     "GENG-2500-1": {
@@ -3781,11 +3463,9 @@
                     "start": "02:30 PM",
                     "end": "04:20 PM"
                 },
-                "room": " Miller-"
+                "room": " Miller-",
+                "prof": "Branovacki,Lindsay "
             }
-        ],
-        "profs": [
-            "Branovacki,Lindsay "
         ]
     },
     "GENG-2980": {
@@ -3813,11 +3493,9 @@
                     "start": "05:30 PM",
                     "end": "08:30 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Alirezaee,Shahpour "
             }
-        ],
-        "profs": [
-            "Alirezaee,Shahpour "
         ]
     },
     "GENG-3980": {
@@ -3845,7 +3523,8 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Bowers,Randy J."
             },
             {
                 "number": "2",
@@ -3856,11 +3535,9 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Stagner,Jacqueline A"
             }
-        ],
-        "profs": [
-            "Stagner,Jacqueline A"
         ]
     },
     "GENG-4400": {
@@ -3910,7 +3587,8 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Naderi,Bahman "
             },
             {
                 "number": "31",
@@ -3921,7 +3599,8 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Naderi,Bahman "
             },
             {
                 "number": "33",
@@ -3932,17 +3611,16 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Abdulhussein,Ali "
             },
             {
                 "number": "40",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Naderi,Bahman "
             }
-        ],
-        "profs": [
-            "Naderi,Bahman "
         ]
     },
     "GENG-8030": {
@@ -3958,7 +3636,8 @@
                     "start": "04:00 PM",
                     "end": "06:00 PM"
                 },
-                "room": " Razavi "
+                "room": " Razavi ",
+                "prof": "Far,Roozbeh "
             },
             {
                 "number": "2",
@@ -3969,7 +3648,8 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " Razavi "
+                "room": " Razavi ",
+                "prof": "Far,Roozbeh "
             },
             {
                 "number": "3",
@@ -3980,7 +3660,8 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rashidzadeh,Rashid "
             },
             {
                 "number": "4",
@@ -3991,11 +3672,9 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rashidzadeh,Rashid "
             }
-        ],
-        "profs": [
-            "Rashidzadeh,Rashid "
         ]
     },
     "GENG-8040": {
@@ -4006,11 +3685,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Frise,Peter "
             }
-        ],
-        "profs": [
-            "Frise,Peter "
         ]
     },
     "GENG-8071": {
@@ -4020,17 +3697,16 @@
             {
                 "number": "1",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Ahmadi,Majid "
             },
             {
                 "number": "1",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Johrendt,Jennifer L."
             }
-        ],
-        "profs": [
-            "Johrendt,Jennifer L."
         ]
     },
     "GENX-   8XXX": {
@@ -4041,11 +3717,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Johrendt,Jennifer L."
             }
-        ],
-        "profs": [
-            "Johrendt,Jennifer L."
         ]
     },
     "INDE-8290": {
@@ -4061,11 +3735,9 @@
                     "start": "12:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Elmaraghy,Waguih H"
             }
-        ],
-        "profs": [
-            "Elmaraghy,Waguih H"
         ]
     },
     "INDE-8360": {
@@ -4123,11 +3795,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Baki,Fouzia "
             }
-        ],
-        "profs": [
-            "Baki,Fouzia "
         ]
     },
     "INDE-8900-2": {
@@ -4159,11 +3829,9 @@
                     "start": "02:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " Razavi "
+                "room": " Razavi ",
+                "prof": "Far,Roozbeh "
             }
-        ],
-        "profs": [
-            "Far,Roozbeh "
         ]
     },
     "INDE-8900-4": {
@@ -4179,11 +3847,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Baki,Fouzia "
             }
-        ],
-        "profs": [
-            "Baki,Fouzia "
         ]
     },
     "INDE-8960": {
@@ -4194,11 +3860,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Urbanic,Jill "
             }
-        ],
-        "profs": [
-            "Urbanic,Jill "
         ]
     },
     "INDE-8970": {
@@ -4209,11 +3873,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "8.00",
-                "time": {}
+                "time": {},
+                "prof": "Urbanic,Jill "
             }
-        ],
-        "profs": [
-            "Urbanic,Jill "
         ]
     },
     "INDE-9980": {
@@ -4224,11 +3886,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Urbanic,Jill "
             }
-        ],
-        "profs": [
-            "Urbanic,Jill "
         ]
     },
     "MATL-8890": {
@@ -4244,11 +3904,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Nie,Xueyuan "
             }
-        ],
-        "profs": [
-            "Nie,Xueyuan "
         ]
     },
     "MATL-8890-1": {
@@ -4264,11 +3922,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Nie,Xueyuan "
             }
-        ],
-        "profs": [
-            "Nie,Xueyuan "
         ]
     },
     "MATL-8890-2": {
@@ -4284,11 +3940,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Edrisy,Afsaneh "
             }
-        ],
-        "profs": [
-            "Edrisy,Afsaneh "
         ]
     },
     "MATL-8970": {
@@ -4299,11 +3953,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "8.00",
-                "time": {}
+                "time": {},
+                "prof": "Green,Daniel E."
             }
-        ],
-        "profs": [
-            "Green,Daniel E."
         ]
     },
     "MATL-9980": {
@@ -4314,11 +3966,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Green,Daniel E."
             }
-        ],
-        "profs": [
-            "Green,Daniel E."
         ]
     },
     "MECH-3215": {
@@ -4334,12 +3984,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Novak,Colin J"
             }
-        ],
-        "profs": [
-            "Novak,Colin J",
-            "Novak,Colin J"
         ]
     },
     "MECH-3215-1": {
@@ -4354,11 +4001,9 @@
                     "start": "01:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Novak,Colin J"
             }
-        ],
-        "profs": [
-            "Novak,Colin J"
         ]
     },
     "MECH-3217": {
@@ -4374,7 +4019,8 @@
                     "start": "02:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "2",
@@ -4385,12 +4031,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Stoilov,Vesselin "
             }
-        ],
-        "profs": [
-            "Stoilov,Vesselin ",
-            "Stoilov,Vesselin "
         ]
     },
     "MECH-3220": {
@@ -4406,7 +4049,8 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Roussinova,Vesselina "
             },
             {
                 "number": "2",
@@ -4417,12 +4061,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Roussinova,Vesselina "
             }
-        ],
-        "profs": [
-            "Roussinova,Vesselina ",
-            "Roussinova,Vesselina "
         ]
     },
     "MECH-3221": {
@@ -4438,7 +4079,8 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Minaker,Bruce P."
             },
             {
                 "number": "2",
@@ -4449,12 +4091,9 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahimi,Afshin "
             }
-        ],
-        "profs": [
-            "Rahimi,Afshin ",
-            "Rahimi,Afshin "
         ]
     },
     "MECH-3224": {
@@ -4496,7 +4135,8 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jianu,Ofelia A"
             },
             {
                 "number": "2",
@@ -4507,12 +4147,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jianu,Ofelia A"
             }
-        ],
-        "profs": [
-            "Jianu,Ofelia A",
-            "Jianu,Ofelia A"
         ]
     },
     "MECH-3670": {
@@ -4528,11 +4165,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Defoe,Jeff J"
             }
-        ],
-        "profs": [
-            "Defoe,Jeff J"
         ]
     },
     "MECH-3670-1": {
@@ -4547,11 +4182,9 @@
                     "start": "03:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Defoe,Jeff J"
             }
-        ],
-        "profs": [
-            "Defoe,Jeff J"
         ]
     },
     "MECH-4200": {
@@ -4567,12 +4200,9 @@
                     "start": "08:30 AM",
                     "end": "10:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Defoe,Jeff J"
             }
-        ],
-        "profs": [
-            "Defoe,Jeff J",
-            "Eaves,Nick S"
         ]
     },
     "MECH-4200-1": {
@@ -4582,156 +4212,183 @@
             {
                 "number": "51",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Eaves,Nick "
             },
             {
                 "number": "52",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Eaves,Nick "
             },
             {
                 "number": "53",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Eaves,Nick "
             },
             {
                 "number": "54",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Minaker,Bruce P."
             },
             {
                 "number": "55",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Defoe,Jeff J"
             },
             {
                 "number": "56",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Defoe,Jeff J"
             },
             {
                 "number": "57",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Eaves,Nick "
             },
             {
                 "number": "58",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "59",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "60",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Riahi,Reza R"
             },
             {
                 "number": "61",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "62",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "63",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Defoe,Jeff J"
             },
             {
                 "number": "64",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Defoe,Jeff J"
             },
             {
                 "number": "65",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Defoe,Jeff J"
             },
             {
                 "number": "66",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "67",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Defoe,Jeff J"
             },
             {
                 "number": "68",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "69",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Roussinova,VesselinaStoilov"
             },
             {
                 "number": "70",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Roussinova,VesselinaStoilov"
             },
             {
                 "number": "71",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Eaves,Nick "
             },
             {
                 "number": "72",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Zaher,AbdoStoilov"
             },
             {
                 "number": "73",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "74",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Cherniaev,AleksandrStoilov"
             },
             {
                 "number": "75",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,VesselinTing"
             },
             {
                 "number": "76",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Novak,Colin J"
             },
             {
                 "number": "77",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Minaker,Bruce P."
             },
             {
                 "number": "78",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Eaves,Nick "
             },
             {
                 "number": "79",
                 "full?": true,
-                "time": {}
+                "time": {},
+                "prof": "Eaves,Nick "
             },
             {
                 "number": "80",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Minaker,Bruce P."
             }
-        ],
-        "profs": [
-            "Minaker,Bruce P."
         ]
     },
     "MECH-4212": {
@@ -4746,11 +4403,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Ahmed,Jalal "
             }
-        ],
-        "profs": [
-            "Ahmed,Jalal "
         ]
     },
     "MECH-4221": {
@@ -4766,12 +4421,9 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Novak,Colin J"
             }
-        ],
-        "profs": [
-            "Novak,Colin J",
-            "Novak,Colin J"
         ]
     },
     "MECH-4228": {
@@ -4787,11 +4439,9 @@
                     "start": "11:30 AM",
                     "end": "12:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tam,Edwin "
             }
-        ],
-        "profs": [
-            "Tam,Edwin "
         ]
     },
     "MECH-4255": {
@@ -4807,11 +4457,9 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Novak,Colin J"
             }
-        ],
-        "profs": [
-            "Novak,Colin J"
         ]
     },
     "MECH-4255-1": {
@@ -4826,11 +4474,9 @@
                     "start": "04:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Novak,Colin J"
             }
-        ],
-        "profs": [
-            "Novak,Colin J"
         ]
     },
     "MECH-4467": {
@@ -4846,11 +4492,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Fartaj,Amir "
             }
-        ],
-        "profs": [
-            "Fartaj,Amir "
         ]
     },
     "MECH-4467-1": {
@@ -4865,13 +4509,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Fartaj,Amir "
             }
-        ],
-        "profs": [
-            "Fartaj,Amir ",
-            "Fartaj,Amir M",
-            "Fartaj,Amir "
         ]
     },
     "MECH-4469": {
@@ -4887,11 +4527,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Zheng,Ming "
             }
-        ],
-        "profs": [
-            "Zheng,Ming "
         ]
     },
     "MECH-4469-1": {
@@ -4906,11 +4544,9 @@
                     "start": "09:00 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Zheng,Ming "
             }
-        ],
-        "profs": [
-            "Zheng,Ming "
         ]
     },
     "MECH-4670": {
@@ -4926,11 +4562,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Defoe,Jeff J"
             }
-        ],
-        "profs": [
-            "Defoe,Jeff J"
         ]
     },
     "MECH-4670-1": {
@@ -4945,11 +4579,9 @@
                     "start": "01:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Defoe,Jeff J"
             }
-        ],
-        "profs": [
-            "Defoe,Jeff J"
         ]
     },
     "MECH-4672": {
@@ -4965,11 +4597,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahimi,Afshin "
             }
-        ],
-        "profs": [
-            "Rahimi,Afshin "
         ]
     },
     "MECH-4672-1": {
@@ -4984,11 +4614,9 @@
                     "start": "02:30 PM",
                     "end": "04:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahimi,Afshin "
             }
-        ],
-        "profs": [
-            "Rahimi,Afshin "
         ]
     },
     "MECH-4820": {
@@ -5004,11 +4632,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Nie,Xueyuan "
             }
-        ],
-        "profs": [
-            "Nie,Xueyuan "
         ]
     },
     "MECH-4820-1": {
@@ -5023,11 +4649,9 @@
                     "start": "12:30 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Nie,Xueyuan "
             }
-        ],
-        "profs": [
-            "Nie,Xueyuan "
         ]
     },
     "MECH-4832": {
@@ -5043,11 +4667,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Edrisy,Afsaneh "
             }
-        ],
-        "profs": [
-            "Edrisy,Afsaneh "
         ]
     },
     "MECH-4832-1": {
@@ -5062,11 +4684,9 @@
                     "start": "11:30 AM",
                     "end": "12:30 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Edrisy,Afsaneh "
             }
-        ],
-        "profs": [
-            "Edrisy,Afsaneh "
         ]
     },
     "MECH-8000": {
@@ -5082,11 +4702,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Uddin,Nasim "
             }
-        ],
-        "profs": [
-            "Uddin,Nasim "
         ]
     },
     "MECH-8000-1": {
@@ -5102,11 +4720,9 @@
                     "start": "06:00 PM",
                     "end": "08:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Asad,Usman "
             }
-        ],
-        "profs": [
-            "Asad,Usman "
         ]
     },
     "MECH-8000-2": {
@@ -5122,11 +4738,9 @@
                     "start": "05:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Ahmed,Ryan "
             }
-        ],
-        "profs": [
-            "Ahmed,Ryan "
         ]
     },
     "MECH-8011": {
@@ -5142,7 +4756,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Defoe,Jeff J"
             },
             {
                 "number": "2",
@@ -5153,11 +4768,9 @@
                     "start": "12:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Defoe,Jeff J"
             }
-        ],
-        "profs": [
-            "Defoe,Jeff J"
         ]
     },
     "MECH-8067": {
@@ -5173,11 +4786,9 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Fartaj,Amir "
             }
-        ],
-        "profs": [
-            "Fartaj,Amir "
         ]
     },
     "MECH-8245": {
@@ -5193,12 +4804,9 @@
                     "start": "04:30 PM",
                     "end": "07:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Chen,Xiang "
             }
-        ],
-        "profs": [
-            "Chen,Xiang ",
-            "Chen,Xiang "
         ]
     },
     "MECH-8290": {
@@ -5225,11 +4833,9 @@
                 "number": "2",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Jianu,Ofelia A"
             }
-        ],
-        "profs": [
-            "Jianu,Ofelia A"
         ]
     },
     "MECH-8290-2": {
@@ -5245,12 +4851,9 @@
                     "start": "06:00 PM",
                     "end": "08:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Bhattacharjee,Sudip S"
             }
-        ],
-        "profs": [
-            "Bhattacharjee,Sudip S",
-            "Bhattacharjee,Sudip S"
         ]
     },
     "MECH-8290-3": {
@@ -5298,11 +4901,9 @@
                     "start": "02:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " Razavi "
+                "room": " Razavi ",
+                "prof": "Far,Roozbeh "
             }
-        ],
-        "profs": [
-            "Far,Roozbeh "
         ]
     },
     "MECH-8290-6": {
@@ -5318,11 +4919,9 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Novak,Colin J"
             }
-        ],
-        "profs": [
-            "Novak,Colin J"
         ]
     },
     "MECH-8290-7": {
@@ -5364,11 +4963,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Fartaj,Amir "
             }
-        ],
-        "profs": [
-            "Fartaj,Amir "
         ]
     },
     "MECH-8290-9": {
@@ -5384,11 +4981,9 @@
                     "start": "01:00 PM",
                     "end": "04:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rankin,Gary W"
             }
-        ],
-        "profs": [
-            "Rankin,Gary W"
         ]
     },
     "MECH-8290-10": {
@@ -5404,11 +4999,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Baki,Fouzia "
             }
-        ],
-        "profs": [
-            "Baki,Fouzia "
         ]
     },
     "MECH-8290-11": {
@@ -5424,11 +5017,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Baki,Fouzia "
             }
-        ],
-        "profs": [
-            "Baki,Fouzia "
         ]
     },
     "MECH-8290-12": {
@@ -5470,11 +5061,9 @@
                     "start": "11:30 AM",
                     "end": "12:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Stoilov,Vesselin "
             }
-        ],
-        "profs": [
-            "Stoilov,Vesselin "
         ]
     },
     "MECH-8960": {
@@ -5485,11 +5074,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             }
-        ],
-        "profs": [
-            "Stoilov,Vesselin "
         ]
     },
     "MECH-8970": {
@@ -5500,11 +5087,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "8.00",
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             }
-        ],
-        "profs": [
-            "Stoilov,Vesselin "
         ]
     },
     "MECH-9295": {
@@ -5520,11 +5105,9 @@
                     "start": "11:30 AM",
                     "end": "12:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Stoilov,Vesselin "
             }
-        ],
-        "profs": [
-            "Stoilov,Vesselin "
         ]
     },
     "MECH-9980": {
@@ -5535,7 +5118,8 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Stoilov,Vesselin "
             },
             {
                 "number": "4",
@@ -5543,9 +5127,6 @@
                 "credits": "3.00",
                 "time": {}
             }
-        ],
-        "profs": [
-            "Stoilov,Vesselin "
         ]
     },
     "RESG-   8XXX": {
@@ -5601,11 +5182,9 @@
                     "start": "12:00 PM",
                     "end": "01:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Horton,Sean "
             }
-        ],
-        "profs": [
-            "Horton,Sean "
         ]
     },
     "KINE-2990": {
@@ -5652,17 +5231,16 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Dixon,Jess C."
             },
             {
                 "number": "2",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Dixon,Jess C."
             }
-        ],
-        "profs": [
-            "Dixon,Jess C."
         ]
     },
     "KINE-4900": {
@@ -5689,11 +5267,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Sutherland,Chad A"
             }
-        ],
-        "profs": [
-            "Sutherland,Chad A"
         ]
     },
     "KINE-4990": {
@@ -5716,11 +5292,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcgowan,Cheri L"
             }
-        ],
-        "profs": [
-            "Mcgowan,Cheri L"
         ]
     },
     "KINE-8950": {
@@ -5731,11 +5305,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcgowan,Cheri L"
             }
-        ],
-        "profs": [
-            "Mcgowan,Cheri L"
         ]
     },
     "KINE-8970": {
@@ -5746,11 +5318,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcgowan,Cheri L"
             }
-        ],
-        "profs": [
-            "Mcgowan,Cheri L"
         ]
     },
     "KINE-9698": {
@@ -5761,11 +5331,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcgowan,Cheri L"
             }
-        ],
-        "profs": [
-            "Mcgowan,Cheri L"
         ]
     },
     "KINE-9920": {
@@ -5776,11 +5344,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcgowan,Cheri L"
             }
-        ],
-        "profs": [
-            "Mcgowan,Cheri L"
         ]
     },
     "KINE-9950": {
@@ -5791,11 +5357,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcgowan,Cheri L"
             }
-        ],
-        "profs": [
-            "Mcgowan,Cheri L"
         ]
     },
     "KINE-9980": {
@@ -5806,11 +5370,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Mcgowan,Cheri L"
             }
-        ],
-        "profs": [
-            "Mcgowan,Cheri L"
         ]
     },
     "LAWM-8970": {
@@ -5821,11 +5383,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Kuhn,Marnie P"
             }
-        ],
-        "profs": [
-            "Kuhn,Marnie P"
         ]
     },
     "NURS-2782": {
@@ -5840,11 +5400,9 @@
                     "start": "06:00 AM",
                     "end": "10:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Dennison,Susan "
             }
-        ],
-        "profs": [
-            "Dennison,Susan "
         ]
     },
     "NURS-2902": {
@@ -5872,11 +5430,9 @@
                     "start": "11:30 AM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Giannotti,Maria S."
             }
-        ],
-        "profs": [
-            "Giannotti,Maria S."
         ]
     },
     "NURS-3730": {
@@ -5892,11 +5448,9 @@
                     "start": "08:30 AM",
                     "end": "11:30 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rickeard,Debbie L"
             }
-        ],
-        "profs": [
-            "Rickeard,Debbie L"
         ]
     },
     "NURS-3782": {
@@ -5943,11 +5497,9 @@
                 "number": "95",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Wellington,Chris M."
             }
-        ],
-        "profs": [
-            "Wellington,Chris M."
         ]
     },
     "NURS-8500": {
@@ -5963,11 +5515,9 @@
                     "start": "06:00 PM",
                     "end": "09:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Freeman,Laurie "
             }
-        ],
-        "profs": [
-            "Freeman,Laurie "
         ]
     },
     "NURS-8800": {
@@ -5983,11 +5533,9 @@
                     "start": "09:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Edmunds,Kathryn A"
             }
-        ],
-        "profs": [
-            "Edmunds,Kathryn A"
         ]
     },
     "NURS-8830": {
@@ -6003,11 +5551,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kane,Debbie J"
             }
-        ],
-        "profs": [
-            "Kane,Debbie J"
         ]
     },
     "NURS-8970": {
@@ -6018,11 +5564,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Witt,Lorna "
             }
-        ],
-        "profs": [
-            "Witt,Lorna "
         ]
     },
     "NURS-9980": {
@@ -6033,11 +5577,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Witt,Lorna "
             }
-        ],
-        "profs": [
-            "Witt,Lorna "
         ]
     },
     "BIOL-2040": {
@@ -6048,11 +5590,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Zielinski,Barbara S"
             }
-        ],
-        "profs": [
-            "Zielinski,Barbara S"
         ]
     },
     "BIOL-8018": {
@@ -6063,11 +5603,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Karpowicz,Phillip "
             }
-        ],
-        "profs": [
-            "Karpowicz,Phillip "
         ]
     },
     "BIOL-8970": {
@@ -6107,11 +5645,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " Al-"
+                "room": " Al-",
+                "prof": "Nidawy,NedhalTong"
             }
-        ],
-        "profs": [
-            "Nidawy,NedhalTong"
         ]
     },
     "BIOC-2010-1": {
@@ -6126,7 +5662,8 @@
                     "start": "11:30 AM",
                     "end": "02:20 PM"
                 },
-                "room": " Al-"
+                "room": " Al-",
+                "prof": "Nidawy,Nedhal "
             },
             {
                 "number": "52",
@@ -6136,11 +5673,9 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " Al-"
+                "room": " Al-",
+                "prof": "Nidawy,Nedhal "
             }
-        ],
-        "profs": [
-            "Nidawy,Nedhal "
         ]
     },
     "BIOC-2015": {
@@ -6156,11 +5691,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " Al-"
+                "room": " Al-",
+                "prof": "Nidawy,Nedhal T"
             }
-        ],
-        "profs": [
-            "Nidawy,Nedhal T"
         ]
     },
     "BIOC-3130": {
@@ -6171,11 +5704,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Lee,Lana "
             }
-        ],
-        "profs": [
-            "Lee,Lana "
         ]
     },
     "BIOC-8208": {
@@ -6191,11 +5722,9 @@
                     "start": "01:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Marquardt,Drew "
             }
-        ],
-        "profs": [
-            "Marquardt,Drew "
         ]
     },
     "BIOC-8720": {
@@ -6211,11 +5740,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kozarova,Anna "
             }
-        ],
-        "profs": [
-            "Kozarova,Anna "
         ]
     },
     "CHEM-1103": {
@@ -6231,11 +5758,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": "  Al-"
+                "room": "  Al-",
+                "prof": "Nidawy,Nedhal T"
             }
-        ],
-        "profs": [
-            "Nidawy,Nedhal T"
         ]
     },
     "CHEM-1103-1": {
@@ -6250,7 +5775,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " Al-"
+                "room": " Al-",
+                "prof": "Nidawy,Nedhal "
             },
             {
                 "number": "52",
@@ -6260,7 +5786,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " Al-"
+                "room": " Al-",
+                "prof": "Nidawy,NedhalTaylor"
             },
             {
                 "number": "53",
@@ -6270,11 +5797,9 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " Al-"
+                "room": " Al-",
+                "prof": "Nidawy,NedhalTaylor"
             }
-        ],
-        "profs": [
-            "Nidawy,NedhalTaylor"
         ]
     },
     "CHEM-3909": {
@@ -6297,11 +5822,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Eichhorn,Holger "
             }
-        ],
-        "profs": [
-            "Eichhorn,Holger "
         ]
     },
     "CHEM-4350": {
@@ -6317,11 +5840,9 @@
                     "start": "02:00 PM",
                     "end": "04:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mundle,Scott "
             }
-        ],
-        "profs": [
-            "Mundle,Scott "
         ]
     },
     "CHEM-4510": {
@@ -6332,11 +5853,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Rawson,Jeremy M."
             }
-        ],
-        "profs": [
-            "Rawson,Jeremy M."
         ]
     },
     "CHEM-4908": {
@@ -6359,11 +5878,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Eichhorn,Holger "
             }
-        ],
-        "profs": [
-            "Eichhorn,Holger "
         ]
     },
     "CHEM-8008-1": {
@@ -6374,11 +5891,9 @@
                 "number": "2",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Eichhorn,Holger "
             }
-        ],
-        "profs": [
-            "Eichhorn,Holger "
         ]
     },
     "CHEM-8008-2": {
@@ -6389,11 +5904,9 @@
                 "number": "3",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mutus,Bulent "
             }
-        ],
-        "profs": [
-            "Mutus,Bulent "
         ]
     },
     "CHEM-8008-3": {
@@ -6404,11 +5917,9 @@
                 "number": "4",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Gauld,James "
             }
-        ],
-        "profs": [
-            "Gauld,James "
         ]
     },
     "CHEM-8008-4": {
@@ -6419,11 +5930,9 @@
                 "number": "5",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mundle,Scott "
             }
-        ],
-        "profs": [
-            "Mundle,Scott "
         ]
     },
     "CHEM-8008-5": {
@@ -6434,11 +5943,9 @@
                 "number": "6",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Ananvoranich,Sirinart "
             }
-        ],
-        "profs": [
-            "Ananvoranich,Sirinart "
         ]
     },
     "CHEM-8008-6": {
@@ -6449,11 +5956,9 @@
                 "number": "7",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Trant,John "
             }
-        ],
-        "profs": [
-            "Trant,John "
         ]
     },
     "CHEM-8208": {
@@ -6464,11 +5969,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mutus,Bulent "
             }
-        ],
-        "profs": [
-            "Mutus,Bulent "
         ]
     },
     "CHEM-8308": {
@@ -6484,11 +5987,9 @@
                     "start": "02:00 PM",
                     "end": "04:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mundle,Scott "
             }
-        ],
-        "profs": [
-            "Mundle,Scott "
         ]
     },
     "CHEM-8320": {
@@ -6499,11 +6000,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Eichhorn,Holger "
             }
-        ],
-        "profs": [
-            "Eichhorn,Holger "
         ]
     },
     "CHEM-8528": {
@@ -6514,11 +6013,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Rawson,Jeremy M."
             }
-        ],
-        "profs": [
-            "Rawson,Jeremy M."
         ]
     },
     "CHEM-8900": {
@@ -6529,11 +6026,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Carmichael,Tricia L"
             }
-        ],
-        "profs": [
-            "Carmichael,Tricia L"
         ]
     },
     "CHEM-8970": {
@@ -6544,11 +6039,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Carmichael,Tricia L"
             }
-        ],
-        "profs": [
-            "Carmichael,Tricia L"
         ]
     },
     "CHEM-9900": {
@@ -6558,11 +6051,9 @@
             {
                 "number": "91",
                 "full?": false,
-                "time": {}
+                "time": {},
+                "prof": "Carmichael,Tricia L"
             }
-        ],
-        "profs": [
-            "Carmichael,Tricia L"
         ]
     },
     "CHEM-9980": {
@@ -6573,11 +6064,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Carmichael,Tricia L"
             }
-        ],
-        "profs": [
-            "Carmichael,Tricia L"
         ]
     },
     "COMP-1000": {
@@ -6592,7 +6081,8 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Abdullah,Nabil A"
             },
             {
                 "number": "52",
@@ -6602,7 +6092,8 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Abdullah,Nabil A"
             },
             {
                 "number": "53",
@@ -6612,7 +6103,8 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Abdullah,Nabil A"
             },
             {
                 "number": "54",
@@ -6622,11 +6114,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Abdullah,Nabil A"
             }
-        ],
-        "profs": [
-            "Abdullah,Nabil A"
         ]
     },
     "COMP-1000-1": {
@@ -6642,11 +6132,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Abdullah,Nabil A"
             }
-        ],
-        "profs": [
-            "Abdullah,Nabil A"
         ]
     },
     "COMP-1047": {
@@ -6657,11 +6145,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mayo,David B"
             }
-        ],
-        "profs": [
-            "Mayo,David B"
         ]
     },
     "COMP-1400": {
@@ -6676,7 +6162,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "52",
@@ -6686,7 +6173,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "53",
@@ -6696,7 +6184,8 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "54",
@@ -6706,7 +6195,8 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "55",
@@ -6716,7 +6206,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "56",
@@ -6727,11 +6218,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             }
-        ],
-        "profs": [
-            "Samet,Saeed "
         ]
     },
     "COMP-1400-1": {
@@ -6747,11 +6236,9 @@
                     "start": "10:00 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             }
-        ],
-        "profs": [
-            "Samet,Saeed "
         ]
     },
     "COMP-1410": {
@@ -6766,7 +6253,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "52",
@@ -6776,7 +6264,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "53",
@@ -6786,7 +6275,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "54",
@@ -6796,7 +6286,8 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "55",
@@ -6806,7 +6297,8 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "56",
@@ -6816,7 +6308,8 @@
                     "start": "05:30 PM",
                     "end": "08:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "57",
@@ -6826,7 +6319,8 @@
                     "start": "05:30 PM",
                     "end": "08:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "58",
@@ -6836,11 +6330,9 @@
                     "start": "01:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             }
-        ],
-        "profs": [
-            "Samet,Saeed "
         ]
     },
     "COMP-1410-1": {
@@ -6856,11 +6348,9 @@
                     "start": "10:00 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             }
-        ],
-        "profs": [
-            "Samet,Saeed "
         ]
     },
     "COMP-2057": {
@@ -6871,11 +6361,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mayo,David B"
             }
-        ],
-        "profs": [
-            "Mayo,David B"
         ]
     },
     "COMP-2067": {
@@ -6886,11 +6374,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Chitte,Sanjay P"
             }
-        ],
-        "profs": [
-            "Chitte,Sanjay P"
         ]
     },
     "COMP-2077": {
@@ -6901,11 +6387,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mamoori,Saja K"
             }
-        ],
-        "profs": [
-            "Mamoori,Saja K"
         ]
     },
     "COMP-2097": {
@@ -6916,11 +6400,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Molokwu,Bonaventure C"
             }
-        ],
-        "profs": [
-            "Molokwu,Bonaventure C"
         ]
     },
     "COMP-2120": {
@@ -6935,7 +6417,8 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "52",
@@ -6945,7 +6428,8 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "53",
@@ -6955,7 +6439,8 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             },
             {
                 "number": "54",
@@ -6965,11 +6450,9 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             }
-        ],
-        "profs": [
-            "Samet,Saeed "
         ]
     },
     "COMP-2120-1": {
@@ -6985,11 +6468,9 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Samet,Saeed "
             }
-        ],
-        "profs": [
-            "Samet,Saeed "
         ]
     },
     "COMP-2310": {
@@ -7004,7 +6485,8 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tsin,Peter H"
             },
             {
                 "number": "52",
@@ -7014,7 +6496,8 @@
                     "start": "01:00 PM",
                     "end": "02:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tsin,Peter H"
             },
             {
                 "number": "53",
@@ -7024,7 +6507,8 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tsin,Peter H"
             },
             {
                 "number": "54",
@@ -7034,11 +6518,9 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tsin,Peter H"
             }
-        ],
-        "profs": [
-            "Tsin,Peter H"
         ]
     },
     "COMP-2310-1": {
@@ -7054,11 +6536,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Tsin,Peter H"
             }
-        ],
-        "profs": [
-            "Tsin,Peter H"
         ]
     },
     "COMP-2540": {
@@ -7073,7 +6553,8 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "52",
@@ -7083,7 +6564,8 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "53",
@@ -7093,7 +6575,8 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "54",
@@ -7103,11 +6586,9 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             }
-        ],
-        "profs": [
-            "Selvarajah,Kalyani "
         ]
     },
     "COMP-2540-1": {
@@ -7123,11 +6604,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             }
-        ],
-        "profs": [
-            "Selvarajah,Kalyani "
         ]
     },
     "COMP-2560": {
@@ -7142,7 +6621,8 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Wu,Dan "
             },
             {
                 "number": "52",
@@ -7152,7 +6632,8 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Wu,Dan "
             },
             {
                 "number": "53",
@@ -7162,11 +6643,9 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Wu,Dan "
             }
-        ],
-        "profs": [
-            "Wu,Dan "
         ]
     },
     "COMP-2560-1": {
@@ -7182,11 +6661,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Wu,Dan "
             }
-        ],
-        "profs": [
-            "Wu,Dan "
         ]
     },
     "COMP-2650": {
@@ -7201,7 +6678,8 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahman,Md Z"
             },
             {
                 "number": "52",
@@ -7211,7 +6689,8 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahman,Md Z"
             },
             {
                 "number": "53",
@@ -7221,7 +6700,8 @@
                     "start": "07:00 PM",
                     "end": "08:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahman,Md Z"
             },
             {
                 "number": "54",
@@ -7231,7 +6711,8 @@
                     "start": "07:00 PM",
                     "end": "08:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahman,Md Z"
             },
             {
                 "number": "55",
@@ -7241,7 +6722,8 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahman,Md Z"
             },
             {
                 "number": "56",
@@ -7251,11 +6733,9 @@
                     "start": "07:00 PM",
                     "end": "08:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahman,Md Z"
             }
-        ],
-        "profs": [
-            "Rahman,Md Z"
         ]
     },
     "COMP-2650-1": {
@@ -7271,11 +6751,9 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Rahman,Md Z"
             }
-        ],
-        "profs": [
-            "Rahman,Md Z"
         ]
     },
     "COMP-2707": {
@@ -7286,11 +6764,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Alkhateeb,Abeldalrhman "
             }
-        ],
-        "profs": [
-            "Alkhateeb,Abeldalrhman "
         ]
     },
     "COMP-2980": {
@@ -7313,11 +6789,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Kobti,Ziad "
             }
-        ],
-        "profs": [
-            "Kobti,Ziad "
         ]
     },
     "COMP-3220": {
@@ -7333,11 +6807,9 @@
                     "start": "08:30 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kobti,Ziad "
             }
-        ],
-        "profs": [
-            "Kobti,Ziad "
         ]
     },
     "COMP-3300": {
@@ -7353,11 +6825,9 @@
                     "start": "10:00 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Scott,Ryan "
             }
-        ],
-        "profs": [
-            "Scott,Ryan "
         ]
     },
     "COMP-3340": {
@@ -7373,11 +6843,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Alkhateeb,Abeldalrhman "
             }
-        ],
-        "profs": [
-            "Alkhateeb,Abeldalrhman "
         ]
     },
     "COMP-3670": {
@@ -7393,11 +6861,9 @@
                     "start": "02:30 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             }
-        ],
-        "profs": [
-            "Jiang,Shaoquan "
         ]
     },
     "COMP-3980": {
@@ -7494,7 +6960,8 @@
                     "start": "10:00 AM",
                     "end": "10:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "52",
@@ -7504,7 +6971,8 @@
                     "start": "11:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "53",
@@ -7514,7 +6982,8 @@
                     "start": "12:00 PM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "54",
@@ -7524,7 +6993,8 @@
                     "start": "01:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "55",
@@ -7534,7 +7004,8 @@
                     "start": "02:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "56",
@@ -7544,7 +7015,8 @@
                     "start": "03:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "57",
@@ -7554,7 +7026,8 @@
                     "start": "12:00 PM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "58",
@@ -7564,7 +7037,8 @@
                     "start": "01:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             },
             {
                 "number": "59",
@@ -7574,11 +7048,9 @@
                     "start": "02:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             }
-        ],
-        "profs": [
-            "Selvarajah,Kalyani "
         ]
     },
     "COMP-8157-1": {
@@ -7594,11 +7066,9 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Selvarajah,Kalyani "
             }
-        ],
-        "profs": [
-            "Selvarajah,Kalyani "
         ]
     },
     "COMP-8347": {
@@ -7613,7 +7083,8 @@
                     "start": "10:00 AM",
                     "end": "10:50 AM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             },
             {
                 "number": "52",
@@ -7623,7 +7094,8 @@
                     "start": "11:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             },
             {
                 "number": "53",
@@ -7633,7 +7105,8 @@
                     "start": "12:00 PM",
                     "end": "12:50 PM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             },
             {
                 "number": "54",
@@ -7643,7 +7116,8 @@
                     "start": "01:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             },
             {
                 "number": "55",
@@ -7653,7 +7127,8 @@
                     "start": "02:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             },
             {
                 "number": "56",
@@ -7663,7 +7138,8 @@
                     "start": "03:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             },
             {
                 "number": "57",
@@ -7673,7 +7149,8 @@
                     "start": "12:00 PM",
                     "end": "12:50 PM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             },
             {
                 "number": "58",
@@ -7683,7 +7160,8 @@
                     "start": "01:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             },
             {
                 "number": "59",
@@ -7693,11 +7171,9 @@
                     "start": "02:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             }
-        ],
-        "profs": [
-            "Mamoori,Saja K"
         ]
     },
     "COMP-8347-1": {
@@ -7713,11 +7189,9 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " Al "
+                "room": " Al ",
+                "prof": "Mamoori,Saja K"
             }
-        ],
-        "profs": [
-            "Mamoori,Saja K"
         ]
     },
     "COMP-8510": {
@@ -7733,11 +7207,9 @@
                     "start": "02:30 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             }
-        ],
-        "profs": [
-            "Boufama,Boubakeur "
         ]
     },
     "COMP-8567": {
@@ -7752,7 +7224,8 @@
                     "start": "01:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             },
             {
                 "number": "52",
@@ -7762,7 +7235,8 @@
                     "start": "02:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             },
             {
                 "number": "53",
@@ -7772,7 +7246,8 @@
                     "start": "03:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             },
             {
                 "number": "54",
@@ -7782,7 +7257,8 @@
                     "start": "03:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             },
             {
                 "number": "55",
@@ -7792,7 +7268,8 @@
                     "start": "04:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             },
             {
                 "number": "56",
@@ -7802,7 +7279,8 @@
                     "start": "05:00 PM",
                     "end": "05:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             },
             {
                 "number": "57",
@@ -7812,7 +7290,8 @@
                     "start": "06:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             },
             {
                 "number": "58",
@@ -7822,7 +7301,8 @@
                     "start": "07:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             },
             {
                 "number": "59",
@@ -7832,11 +7312,9 @@
                     "start": "08:00 PM",
                     "end": "08:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             }
-        ],
-        "profs": [
-            "Boufama,Boubakeur "
         ]
     },
     "COMP-8567-1": {
@@ -7852,11 +7330,9 @@
                     "start": "01:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Boufama,Boubakeur "
             }
-        ],
-        "profs": [
-            "Boufama,Boubakeur "
         ]
     },
     "COMP-8677": {
@@ -7871,7 +7347,8 @@
                     "start": "01:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             },
             {
                 "number": "52",
@@ -7881,7 +7358,8 @@
                     "start": "02:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             },
             {
                 "number": "53",
@@ -7891,7 +7369,8 @@
                     "start": "03:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             },
             {
                 "number": "54",
@@ -7901,7 +7380,8 @@
                     "start": "04:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             },
             {
                 "number": "55",
@@ -7911,7 +7391,8 @@
                     "start": "12:00 PM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             },
             {
                 "number": "56",
@@ -7921,7 +7402,8 @@
                     "start": "01:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             },
             {
                 "number": "57",
@@ -7931,7 +7413,8 @@
                     "start": "02:00 PM",
                     "end": "02:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             },
             {
                 "number": "58",
@@ -7941,7 +7424,8 @@
                     "start": "03:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             },
             {
                 "number": "59",
@@ -7951,11 +7435,9 @@
                     "start": "04:00 PM",
                     "end": "04:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             }
-        ],
-        "profs": [
-            "Jiang,Shaoquan "
         ]
     },
     "COMP-8677-1": {
@@ -7971,11 +7453,9 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jiang,Shaoquan "
             }
-        ],
-        "profs": [
-            "Jiang,Shaoquan "
         ]
     },
     "COMP-8900": {
@@ -7986,11 +7466,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Zadeh,Pooya "
             }
-        ],
-        "profs": [
-            "Zadeh,Pooya "
         ]
     },
     "COMP-8900-1": {
@@ -8001,11 +7479,9 @@
                 "number": "2",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Ahmed,Sherif "
             }
-        ],
-        "profs": [
-            "Ahmed,Sherif "
         ]
     },
     "COMP-8970": {
@@ -8016,11 +7492,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Ngom,Alioune "
             }
-        ],
-        "profs": [
-            "Ngom,Alioune "
         ]
     },
     "COMP-8997": {
@@ -8036,7 +7510,8 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kobti,Ziad "
             },
             {
                 "number": "91",
@@ -8047,11 +7522,9 @@
                     "start": "08:30 AM",
                     "end": "11:20 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kobti,Ziad "
             }
-        ],
-        "profs": [
-            "Kobti,Ziad "
         ]
     },
     "COMP-9980": {
@@ -8062,11 +7535,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Ngom,Alioune "
             }
-        ],
-        "profs": [
-            "Ngom,Alioune "
         ]
     },
     "ECON-1100": {
@@ -8077,11 +7548,9 @@
                 "number": "95",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Latvenas,Jurate "
             }
-        ],
-        "profs": [
-            "Latvenas,Jurate "
         ]
     },
     "ECON-1110": {
@@ -8092,11 +7561,9 @@
                 "number": "95",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Latvenas,Jurate "
             }
-        ],
-        "profs": [
-            "Latvenas,Jurate "
         ]
     },
     "ECON-8260": {
@@ -8107,11 +7574,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Lanoue,Chris "
             }
-        ],
-        "profs": [
-            "Lanoue,Chris "
         ]
     },
     "ECON-8960": {
@@ -8134,11 +7599,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Jasra,Pardeep "
             }
-        ],
-        "profs": [
-            "Jasra,Pardeep "
         ]
     },
     "ACSC-8040": {
@@ -8149,11 +7612,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Grondin,Tom "
             }
-        ],
-        "profs": [
-            "Grondin,Tom "
         ]
     },
     "ACSC-8070": {
@@ -8164,11 +7625,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Grondin,Tom "
             }
-        ],
-        "profs": [
-            "Grondin,Tom "
         ]
     },
     "ACSC-8200": {
@@ -8179,11 +7638,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Sajjad,Alia A"
             }
-        ],
-        "profs": [
-            "Sajjad,Alia A"
         ]
     },
     "MATH-1020": {
@@ -8194,11 +7651,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hassanzadeh,Mohammad "
             }
-        ],
-        "profs": [
-            "Hassanzadeh,Mohammad "
         ]
     },
     "MATH-1250": {
@@ -8242,11 +7697,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Wang,Jing "
             }
-        ],
-        "profs": [
-            "Wang,Jing "
         ]
     },
     "MATH-1730": {
@@ -8257,11 +7710,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Wang,Jing "
             }
-        ],
-        "profs": [
-            "Wang,Jing "
         ]
     },
     "MATH-1980": {
@@ -8284,11 +7735,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mansoora,Abida "
             }
-        ],
-        "profs": [
-            "Mansoora,Abida "
         ]
     },
     "MATH-2790": {
@@ -8299,11 +7748,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mansoora,Abida "
             }
-        ],
-        "profs": [
-            "Mansoora,Abida "
         ]
     },
     "MATH-4000": {
@@ -8314,11 +7761,9 @@
                 "number": "15",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Yee,Wai L"
             }
-        ],
-        "profs": [
-            "Yee,Wai L"
         ]
     },
     "MATH-8960": {
@@ -8329,11 +7774,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hussein,Abdulkadir "
             }
-        ],
-        "profs": [
-            "Hussein,Abdulkadir "
         ]
     },
     "MATH-8970": {
@@ -8344,11 +7787,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Hussein,Abdulkadir "
             }
-        ],
-        "profs": [
-            "Hussein,Abdulkadir "
         ]
     },
     "MATH-9980": {
@@ -8359,11 +7800,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Hussein,Abdulkadir "
             }
-        ],
-        "profs": [
-            "Hussein,Abdulkadir "
         ]
     },
     "STAT-2910": {
@@ -8374,11 +7813,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Sajjad,Alia A"
             }
-        ],
-        "profs": [
-            "Sajjad,Alia A"
         ]
     },
     "STAT-4200": {
@@ -8389,11 +7826,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Sajjad,Alia A"
             }
-        ],
-        "profs": [
-            "Sajjad,Alia A"
         ]
     },
     "STAT-8590": {
@@ -8404,11 +7839,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hlynka,Myron "
             }
-        ],
-        "profs": [
-            "Hlynka,Myron "
         ]
     },
     "STAT-8960": {
@@ -8419,11 +7852,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hussein,Abdulkadir "
             }
-        ],
-        "profs": [
-            "Hussein,Abdulkadir "
         ]
     },
     "STAT-8970": {
@@ -8434,11 +7865,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Hussein,Abdulkadir "
             }
-        ],
-        "profs": [
-            "Hussein,Abdulkadir "
         ]
     },
     "STAT-9980": {
@@ -8449,11 +7878,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Hussein,Abdulkadir "
             }
-        ],
-        "profs": [
-            "Hussein,Abdulkadir "
         ]
     },
     "PHYS-1000": {
@@ -8464,11 +7891,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Lubrick,Mark A"
             }
-        ],
-        "profs": [
-            "Lubrick,Mark A"
         ]
     },
     "PHYS-2980": {
@@ -8551,11 +7976,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Moscicki,Mark "
             }
-        ],
-        "profs": [
-            "Moscicki,Mark "
         ]
     },
     "ESCI-1020": {
@@ -8566,11 +7989,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hart,Janet "
             }
-        ],
-        "profs": [
-            "Hart,Janet "
         ]
     },
     "ESCI-1100": {
@@ -8581,11 +8002,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Hart,Janet "
             }
-        ],
-        "profs": [
-            "Hart,Janet "
         ]
     },
     "ESCI-1130": {
@@ -8596,11 +8015,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Moscicki,Mark "
             }
-        ],
-        "profs": [
-            "Moscicki,Mark "
         ]
     },
     "ESCI-2000": {
@@ -8611,11 +8028,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Baker,Nick "
             }
-        ],
-        "profs": [
-            "Baker,Nick "
         ]
     },
     "ESCI-2010": {
@@ -8626,11 +8041,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Simpson,Frank "
             }
-        ],
-        "profs": [
-            "Simpson,Frank "
         ]
     },
     "ESCI-4900": {
@@ -8665,11 +8078,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Polat,Ali "
             }
-        ],
-        "profs": [
-            "Polat,Ali "
         ]
     },
     "ESCI-8970": {
@@ -8680,11 +8091,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Polat,Ali "
             }
-        ],
-        "profs": [
-            "Polat,Ali "
         ]
     },
     "ESCI-9900": {
@@ -8695,11 +8104,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Polat,Ali "
             }
-        ],
-        "profs": [
-            "Polat,Ali "
         ]
     },
     "ESCI-9980": {
@@ -8710,11 +8117,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "2.00",
-                "time": {}
+                "time": {},
+                "prof": "Polat,Ali "
             }
-        ],
-        "profs": [
-            "Polat,Ali "
         ]
     },
     "ESTU-4910": {
@@ -8767,11 +8172,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Savoni,Peter C."
             }
-        ],
-        "profs": [
-            "Savoni,Peter C."
         ]
     },
     "ACCT-2510": {
@@ -8782,11 +8185,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Shih,Michael S"
             }
-        ],
-        "profs": [
-            "Shih,Michael S"
         ]
     },
     "ACCT-2520": {
@@ -8797,11 +8198,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Shih,Michael S"
             }
-        ],
-        "profs": [
-            "Shih,Michael S"
         ]
     },
     "ACCT-2550": {
@@ -8812,11 +8211,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Orawski,Bill M"
             }
-        ],
-        "profs": [
-            "Orawski,Bill M"
         ]
     },
     "ACCT-3520": {
@@ -8832,11 +8229,9 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " Van "
+                "room": " Van ",
+                "prof": "Rijt,David "
             }
-        ],
-        "profs": [
-            "Rijt,David "
         ]
     },
     "ACCT-3560": {
@@ -8847,11 +8242,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Orawski,Bill M"
             }
-        ],
-        "profs": [
-            "Orawski,Bill M"
         ]
     },
     "ACCT-3580": {
@@ -8862,11 +8255,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Orawski,Bill M"
             }
-        ],
-        "profs": [
-            "Orawski,Bill M"
         ]
     },
     "ACCT-3600": {
@@ -8877,11 +8268,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Pathak,Jagdish P."
             }
-        ],
-        "profs": [
-            "Pathak,Jagdish P."
         ]
     },
     "ACCT-3610": {
@@ -8897,11 +8286,9 @@
                     "start": "07:00 PM",
                     "end": "08:20 PM"
                 },
-                "room": " Van "
+                "room": " Van ",
+                "prof": "Rijt,David "
             }
-        ],
-        "profs": [
-            "Rijt,David "
         ]
     },
     "ACCT-4570": {
@@ -8917,11 +8304,9 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jones,Donald "
             }
-        ],
-        "profs": [
-            "Jones,Donald "
         ]
     },
     "ACCT-4590": {
@@ -8937,11 +8322,9 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Sterling,Maureen P."
             }
-        ],
-        "profs": [
-            "Sterling,Maureen P."
         ]
     },
     "ACCT-4600": {
@@ -8952,11 +8335,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Pathak,Jagdish P."
             }
-        ],
-        "profs": [
-            "Pathak,Jagdish P."
         ]
     },
     "ACCT-4610": {
@@ -8972,11 +8353,9 @@
                     "start": "07:00 PM",
                     "end": "08:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jones,Donald "
             }
-        ],
-        "profs": [
-            "Jones,Donald "
         ]
     },
     "ACCT-8070": {
@@ -8992,11 +8371,9 @@
                     "start": "06:00 PM",
                     "end": "08:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Jones,Donald "
             }
-        ],
-        "profs": [
-            "Jones,Donald "
         ]
     },
     "ACCT-8080": {
@@ -9012,11 +8389,9 @@
                     "start": "06:00 PM",
                     "end": "08:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Waghorn,Ainslie "
             }
-        ],
-        "profs": [
-            "Waghorn,Ainslie "
         ]
     },
     "BSMM-8000": {
@@ -9031,7 +8406,8 @@
                     "start": "09:00 AM",
                     "end": "10:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mcfadyen,Trevor "
             },
             {
                 "number": "4",
@@ -9041,11 +8417,9 @@
                     "start": "12:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mcfadyen,Trevor "
             }
-        ],
-        "profs": [
-            "Mcfadyen,Trevor "
         ]
     },
     "BSMM-8120": {
@@ -9061,7 +8435,8 @@
                     "start": "12:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mohebshahedin,Mahmood "
             },
             {
                 "number": "2",
@@ -9072,7 +8447,8 @@
                     "start": "02:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mohebshahedin,Mahmood "
             },
             {
                 "number": "3",
@@ -9083,7 +8459,8 @@
                     "start": "12:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mohebshahedin,Mahmood "
             },
             {
                 "number": "4",
@@ -9094,11 +8471,9 @@
                     "start": "02:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mohebshahedin,Mahmood "
             }
-        ],
-        "profs": [
-            "Mohebshahedin,Mahmood "
         ]
     },
     "BSMM-8310": {
@@ -9114,7 +8489,8 @@
                     "start": "08:00 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lee,Jonathan "
             },
             {
                 "number": "2",
@@ -9125,7 +8501,8 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lee,Jonathan "
             },
             {
                 "number": "3",
@@ -9136,7 +8513,8 @@
                     "start": "06:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Cohen,Ira "
             },
             {
                 "number": "4",
@@ -9147,7 +8525,8 @@
                     "start": "08:00 AM",
                     "end": "09:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lee,Jonathan "
             },
             {
                 "number": "5",
@@ -9158,11 +8537,9 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Lee,Jonathan "
             }
-        ],
-        "profs": [
-            "Lee,Jonathan "
         ]
     },
     "BSMM-8340": {
@@ -9178,7 +8555,8 @@
                     "start": "12:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Sassine,Leann "
             },
             {
                 "number": "2",
@@ -9189,7 +8567,8 @@
                     "start": "06:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Sassine,Leann "
             },
             {
                 "number": "3",
@@ -9200,11 +8579,9 @@
                     "start": "06:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Sassine,Leann "
             }
-        ],
-        "profs": [
-            "Sassine,Leann "
         ]
     },
     "BSMM-8360": {
@@ -9220,11 +8597,9 @@
                     "start": "06:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mitra,Santanu "
             }
-        ],
-        "profs": [
-            "Mitra,Santanu "
         ]
     },
     "BSMM-8370": {
@@ -9240,7 +8615,8 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "An,Yunbi "
             },
             {
                 "number": "2",
@@ -9251,11 +8627,9 @@
                     "start": "12:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "An,Yunbi "
             }
-        ],
-        "profs": [
-            "An,Yunbi "
         ]
     },
     "BSMM-8380": {
@@ -9271,11 +8645,9 @@
                     "start": "06:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Sarkis,Diana "
             }
-        ],
-        "profs": [
-            "Sarkis,Diana "
         ]
     },
     "BSMM-8550": {
@@ -9291,7 +8663,8 @@
                     "start": "02:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Higginson,James K."
             },
             {
                 "number": "2",
@@ -9302,7 +8675,8 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Higginson,James K."
             },
             {
                 "number": "3",
@@ -9313,7 +8687,8 @@
                     "start": "02:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Higginson,James K."
             },
             {
                 "number": "4",
@@ -9324,11 +8699,9 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Higginson,James K."
             }
-        ],
-        "profs": [
-            "Higginson,James K."
         ]
     },
     "BSMM-8560": {
@@ -9344,7 +8717,8 @@
                     "start": "10:00 AM",
                     "end": "11:50 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Guo,Xiaolei "
             },
             {
                 "number": "2",
@@ -9355,11 +8729,9 @@
                     "start": "12:00 PM",
                     "end": "01:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Guo,Xiaolei "
             }
-        ],
-        "profs": [
-            "Guo,Xiaolei "
         ]
     },
     "BSMM-8620": {
@@ -9375,11 +8747,9 @@
                     "start": "08:00 AM",
                     "end": "09:50 AM"
                 },
-                "room": " Van "
+                "room": " Van ",
+                "prof": "Rijt,David "
             }
-        ],
-        "profs": [
-            "Rijt,David "
         ]
     },
     "BSMM-8630": {
@@ -9395,11 +8765,9 @@
                     "start": "02:00 PM",
                     "end": "03:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Keller,Werner H"
             }
-        ],
-        "profs": [
-            "Keller,Werner H"
         ]
     },
     "BSMM-8650": {
@@ -9415,11 +8783,9 @@
                     "start": "06:00 PM",
                     "end": "07:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mahajan,Ashish "
             }
-        ],
-        "profs": [
-            "Mahajan,Ashish "
         ]
     },
     "BUSI-8140": {
@@ -9435,11 +8801,9 @@
                     "start": "09:00 AM",
                     "end": "11:00 AM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Furneaux,Brent "
             }
-        ],
-        "profs": [
-            "Furneaux,Brent "
         ]
     },
     "BUSI-8673": {
@@ -9454,11 +8818,9 @@
                     "start": "09:00 AM",
                     "end": "05:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Waghorn,Ainslie "
             }
-        ],
-        "profs": [
-            "Waghorn,Ainslie "
         ]
     },
     "BUSI-8960": {
@@ -9469,11 +8831,9 @@
                 "number": "01",
                 "full?": false,
                 "credits": "6.00",
-                "time": {}
+                "time": {},
+                "prof": "Walker,Kent R"
             }
-        ],
-        "profs": [
-            "Walker,Kent R"
         ]
     },
     "BUSR-4950": {
@@ -9484,11 +8844,9 @@
                 "number": "1",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Brykman,Kyle "
             }
-        ],
-        "profs": [
-            "Brykman,Kyle "
         ]
     },
     "FINA-2700": {
@@ -9499,11 +8857,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Mohebshahedin,Mahmood "
             }
-        ],
-        "profs": [
-            "Mohebshahedin,Mahmood "
         ]
     },
     "FINA-2710": {
@@ -9514,11 +8870,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Elsaid,Eahab M."
             }
-        ],
-        "profs": [
-            "Elsaid,Eahab M."
         ]
     },
     "FINA-3710": {
@@ -9529,11 +8883,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Cheung,Keith "
             }
-        ],
-        "profs": [
-            "Cheung,Keith "
         ]
     },
     "FINA-3730": {
@@ -9549,11 +8901,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Fenn,Garnet "
             }
-        ],
-        "profs": [
-            "Fenn,Garnet "
         ]
     },
     "FINA-3780": {
@@ -9564,11 +8914,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Cheung,Keith "
             }
-        ],
-        "profs": [
-            "Cheung,Keith "
         ]
     },
     "FINA-4740": {
@@ -9579,11 +8927,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "An,Yunbi "
             }
-        ],
-        "profs": [
-            "An,Yunbi "
         ]
     },
     "MGMT-1000": {
@@ -9599,11 +8945,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Sarkis,Diana "
             }
-        ],
-        "profs": [
-            "Sarkis,Diana "
         ]
     },
     "MGMT-2400": {
@@ -9614,11 +8958,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Reavley,Martha A"
             }
-        ],
-        "profs": [
-            "Reavley,Martha A"
         ]
     },
     "MGMT-2430": {
@@ -9634,11 +8976,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Sassine,Leann "
             }
-        ],
-        "profs": [
-            "Sassine,Leann "
         ]
     },
     "MGMT-3000": {
@@ -9654,11 +8994,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Donally,Ryan J"
             }
-        ],
-        "profs": [
-            "Donally,Ryan J"
         ]
     },
     "MGMT-4410": {
@@ -9674,11 +9012,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Cohen,Ira "
             }
-        ],
-        "profs": [
-            "Cohen,Ira "
         ]
     },
     "MGMT-4910": {
@@ -9689,11 +9025,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Reavley,Martha A"
             }
-        ],
-        "profs": [
-            "Reavley,Martha A"
         ]
     },
     "MGMT-8460": {
@@ -9709,11 +9043,9 @@
                     "start": "10:00 AM",
                     "end": "12:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Ma,Zhenzhong "
             }
-        ],
-        "profs": [
-            "Ma,Zhenzhong "
         ]
     },
     "MKTG-1310": {
@@ -9729,11 +9061,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Georgie,Vincent "
             }
-        ],
-        "profs": [
-            "Georgie,Vincent "
         ]
     },
     "MKTG-2320": {
@@ -9744,11 +9074,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Oliveira,Celso "
             }
-        ],
-        "profs": [
-            "Oliveira,Celso "
         ]
     },
     "MKTG-4360": {
@@ -9764,11 +9092,9 @@
                     "start": "04:00 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Georgie,Vincent "
             }
-        ],
-        "profs": [
-            "Georgie,Vincent "
         ]
     },
     "MKTG-4950": {
@@ -9779,11 +9105,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Georgie,Vincent "
             }
-        ],
-        "profs": [
-            "Georgie,Vincent "
         ]
     },
     "MSCI-1000": {
@@ -9799,11 +9123,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Miller,Peter L"
             }
-        ],
-        "profs": [
-            "Miller,Peter L"
         ]
     },
     "MSCI-2020": {
@@ -9819,11 +9141,9 @@
                     "start": "04:00 PM",
                     "end": "05:20 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Miller,Peter L"
             }
-        ],
-        "profs": [
-            "Miller,Peter L"
         ]
     },
     "MSCI-2130": {
@@ -9834,11 +9154,9 @@
                 "number": "91",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Decou,Judith A"
             }
-        ],
-        "profs": [
-            "Decou,Judith A"
         ]
     },
     "MSCI-2200": {
@@ -9854,11 +9172,9 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Hassanzadeh,Mohammad "
             }
-        ],
-        "profs": [
-            "Hassanzadeh,Mohammad "
         ]
     },
     "MSCI-3310": {
@@ -9874,11 +9190,9 @@
                     "start": "11:30 AM",
                     "end": "12:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Azimian,Alireza "
             }
-        ],
-        "profs": [
-            "Azimian,Alireza "
         ]
     },
     "MSCI-4950": {
@@ -9889,11 +9203,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Maheshwari,Bharat "
             }
-        ],
-        "profs": [
-            "Maheshwari,Bharat "
         ]
     },
     "STEN-1000": {
@@ -9909,11 +9221,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Abdulhussein,Ali "
             }
-        ],
-        "profs": [
-            "Abdulhussein,Ali "
         ]
     },
     "STEN-2050": {
@@ -9924,11 +9234,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Baki,Fazle F."
             }
-        ],
-        "profs": [
-            "Baki,Fazle F."
         ]
     },
     "STEN-2900": {
@@ -9939,11 +9247,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Lee,Jonathan "
             }
-        ],
-        "profs": [
-            "Lee,Jonathan "
         ]
     },
     "STEN-3050": {
@@ -9954,11 +9260,9 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Baki,Fazle F."
             }
-        ],
-        "profs": [
-            "Baki,Fazle F."
         ]
     },
     "STEN-3930": {
@@ -9969,11 +9273,9 @@
                 "number": "91",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Lee,Jonathan "
             }
-        ],
-        "profs": [
-            "Lee,Jonathan "
         ]
     },
     "STEN-3970": {
@@ -9989,11 +9291,9 @@
                     "start": "05:30 PM",
                     "end": "06:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Allen,Craig J."
             }
-        ],
-        "profs": [
-            "Allen,Craig J."
         ]
     },
     "STEN-4050": {
@@ -10004,17 +9304,16 @@
                 "number": "1",
                 "full?": true,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Baki,Fazle F."
             },
             {
                 "number": "2",
                 "full?": false,
                 "credits": "3.00",
-                "time": {}
+                "time": {},
+                "prof": "Baki,Fazle F."
             }
-        ],
-        "profs": [
-            "Baki,Fazle F."
         ]
     },
     "STEN-4980": {
@@ -10030,7 +9329,8 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mao,Tony C"
             },
             {
                 "number": "92",
@@ -10041,11 +9341,9 @@
                     "start": "07:00 PM",
                     "end": "09:50 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Mao,Tony C"
             }
-        ],
-        "profs": [
-            "Mao,Tony C"
         ]
     },
     "STEN-8120": {
@@ -10061,11 +9359,9 @@
                     "start": "09:00 AM",
                     "end": "01:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Guthrie,Mary "
             }
-        ],
-        "profs": [
-            "Guthrie,Mary "
         ]
     },
     "STEN-8980": {
@@ -10081,13 +9377,9 @@
                     "start": "09:00 AM",
                     "end": "01:00 PM"
                 },
-                "room": " "
+                "room": " ",
+                "prof": "Kerr,Gerry J."
             }
-        ],
-        "profs": [
-            "Kerr,Gerry J.",
-            "Mao,Tony C",
-            "Mao,Tony C"
         ]
     }
 }

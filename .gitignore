@@ -1,5 +1,8 @@
 log.txt
 data/pdfs
 
+uwinpy.py
 classes.py
 classes.txt
+
+__pycache__

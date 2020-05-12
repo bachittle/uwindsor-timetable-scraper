@@ -106,12 +106,11 @@ def scrape_timetable(filename):
                     if index2:
                         index2 = index2.start(0)
                         section_dict["room"] = section[index1:index2]
-                profs = []
+                prof = None
                 re_profs = re.findall(r"[A-Z][a-zA-Z]*,[A-Z][a-zA-Z]* ?[A-Z]?\.?", section)
-                for prof in re_profs:
-                    profs.append(prof)
-                if profs:
-                    course_dict["profs"] = profs
+                if re_profs:
+                    prof = re_profs[0]
+                    section_dict["prof"] = prof
                 j += 1
                 course_dict["sections"].append(section_dict)
             print(course_dict)
@@ -131,6 +130,10 @@ def scrape_timetable(filename):
 
     fp = open("data/"+filename+".json", "w")
     json.dump(courses_dict, fp, indent=4)
+    fp.close()
+
+    fp = open("data/api.txt", "a")
+    fp.write(filename)
     fp.close()
 
 # allows arguments except for 1st argument (which is just what program is running...)
