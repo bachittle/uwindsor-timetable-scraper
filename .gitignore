@@ -5,4 +5,6 @@ uwinpy.py
 classes.py
 classes.txt
 
+secret.json
+
 __pycache__
